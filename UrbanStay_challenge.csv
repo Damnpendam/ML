@@ -1,0 +1,1513 @@
+Listing_ID,Host_Name,Property_Type,Location,Bedrooms,Bathrooms,Accommodates,Review_Score,Number_of_Reviews,Superhost,Host_Experience,Cleaning_Fee,Minimum_Nights,Amenities_Score,Instant_Bookable
+996664,Minh Thomas,Villa,Outer Suburb,2,2,5,4.41,34,No,3,45.0,2,5.0,Yes
+990068,Mei Lee,Studio,Inner Suburb,1,1,3,4.41,44,No,4,44.0,3,5.0,No
+990991,Mei Taylor,Townhouse,Regional,2,1,3,4.12,53,No,5,48.0,2,7.0,No
+991378,Michael Patel,Apartment,Outer Suburb,2,3,4,4.54,132,No,3,45.0,2,6.0,Yes
+990527,Mei Clark,House,Outer Suburb,3,1,6,4.56,1,No,0,62.0,2,5.0,Yes
+991701,Chloe White,Apartment,Regional,1,2,1,4.34,99,No,2,40.0,3,3.0,Yes
+992934,Noah Jones,Apartment,Inner Suburb,2,2,4,4.63,150,No,9,58.0,2,7.0,Yes
+995566,Emma Clark,Apartment,Outer Suburb,3,2,6,3.64,7,No,1,74.0,2,5.0,Yes
+994104,Arjun White,Apartment,Inner Suburb,1,2,1,4.7,25,No,0,63.0,1,,Yes
+992727,Omar Wang,Apartment,Inner Suburb,1,2,1,4.58,25,No,7,64.0,3,7.0,Yes
+993572,Mia Martin,Apartment,Regional,2,2,6,4.49,72,No,1,74.0,3,7.0,No
+991307,Ben Clark,Apartment,Outer Suburb,2,2,4,4.56,34,Yes,2,64.0,1,6.0,Yes
+992900,Emma Smith,Apartment,Inner Suburb,1,1,1,3.86,66,No,3,46.0,1,4.0,No
+997423,Daniel White,House,Inner Suburb,3,3,7,4.06,22,No,7,83.0,2,6.0,Yes
+997559,Omar Clark,Apartment,Outer Suburb,1,1,1,4.46,5,No,0,34.0,1,4.0,Yes
+997950,James Patel,Townhouse,CBD,2,2,5,4.25,98,Yes,2,68.0,5,6.0,Yes
+995573,Omar Wang,Apartment,Outer Suburb,2,2,5,4.34,65,Yes,3,64.0,3,5.0,Yes
+990595,Emma Brown,Studio,CBD,1,2,2,4.0,56,Yes,7,49.0,1,4.0,Yes
+997604,Lily White,Apartment,Inner Suburb,2,3,4,4.21,36,Yes,8,69.0,1,6.0,Yes
+996107,Daniel Anderson,House,Regional,4,3,8,4.64,75,No,10,102.0,3,8.0,Yes
+996540,Lily Young,Studio,Outer Suburb,1,2,2,4.8,9,No,2,50.0,1,5.0,No
+995276,Samuel Le,Villa,Outer Suburb,5,2,10,4.8,62,No,12,87.0,1,8.0,No
+997420,Lucas Ali,Apartment,Outer Suburb,2,2,6,3.99,37,No,6,67.0,2,7.0,Yes
+997338,Daniel Young,House,Regional,4,3,8,4.4,59,No,1,79.0,5,,No
+990498,Jack Smith,House,Inner Suburb,3,2,6,3.89,28,No,4,69.0,1,5.0,Yes
+994873,Sarah Scott,Townhouse,Regional,2,2,6,,97,Yes,9,,1,7.0,Yes
+997135,Arjun Anderson,House,Regional,3,2,6,4.86,49,Yes,2,66.0,3,6.0,No
+993190,Sophie Patel,House,Outer Suburb,3,2,6,4.62,13,No,0,78.0,1,6.0,No
+996314,Michael White,Villa,Outer Suburb,3,1,8,4.65,16,No,4,59.0,7,8.0,Yes
+996047,Ethan Smith,House,Outer Suburb,4,2,8,4.37,19,No,1,89.0,1,8.0,Yes
+991067,Noah Lee,Townhouse,CBD,3,2,5,4.25,9,No,2,77.0,1,6.0,Yes
+996857,Aisha Khan,Apartment,Inner Suburb,1,1,4,4.65,20,No,5,47.0,1,6.0,Yes
+993336,Emma Anderson,Apartment,Inner Suburb,2,1,4,4.86,94,No,2,53.0,1,7.0,Yes
+990449,Liam Ali,Apartment,Regional,2,1,3,4.71,14,No,3,68.0,3,7.0,No
+990499,Michael Young,House,Outer Suburb,3,3,5,4.49,28,No,6,63.0,7,6.0,Yes
+995555,Henry Singh,Townhouse,Outer Suburb,3,2,8,4.85,22,No,9,74.0,3,7.0,No
+997355,Mai Chen,Townhouse,Regional,3,2,7,4.24,28,Yes,1,87.0,3,7.0,Yes
+991192,Amelia Smith,House,Regional,3,3,6,4.16,14,No,0,72.0,2,5.0,Yes
+994264,Chloe Ali,Villa,Regional,4,2,8,4.13,117,No,4,85.0,2,4.0,Yes
+997733,Amelia Tran,Townhouse,CBD,2,2,4,4.2,42,Yes,6,44.0,3,4.0,Yes
+997990,Mei Wang,Studio,Outer Suburb,1,1,4,4.42,72,No,0,46.0,1,8.0,No
+996961,Amelia Ali,Townhouse,Inner Suburb,2,2,5,4.35,14,No,6,68.0,2,5.0,No
+994479,Isla Clark,Apartment,Regional,1,2,2,4.49,88,Yes,1,41.0,1,5.0,Yes
+990586,Thomas Le,Apartment,Inner Suburb,2,2,6,4.29,66,Yes,9,71.0,1,8.0,Yes
+991676,Lily Thomas,Townhouse,Outer Suburb,2,2,4,4.57,29,Yes,2,57.0,3,5.0,Yes
+995396,Emma Lee,House,CBD,4,2,8,4.35,17,No,1,90.0,1,5.0,Yes
+995829,Liam Walker,House,Outer Suburb,4,3,8,4.71,25,No,1,99.0,2,6.0,No
+995459,Thomas Singh,House,CBD,2,2,5,4.49,121,Yes,3,56.0,3,6.0,Yes
+993520,An Wilson,Apartment,CBD,2,2,4,4.64,55,No,13,74.0,1,9.0,Yes
+993710,Samuel Smith,House,CBD,3,2,5,4.22,167,No,1,64.0,1,7.0,No
+995217,Chloe Thomas,Apartment,Inner Suburb,1,1,3,4.31,17,Yes,2,47.0,1,5.0,Yes
+993575,Amelia Nguyen,Studio,CBD,1,1,2,4.57,82,No,2,58.0,1,6.0,Yes
+993267,Mai Walker,House,Regional,4,3,8,4.15,39,No,5,62.0,1,4.0,Yes
+991281,Jack Taylor,House,Outer Suburb,5,2,10,4.08,113,Yes,4,77.0,2,3.0,Yes
+992473,Zoe Nguyen,House,Outer Suburb,4,3,7,4.98,52,Yes,0,92.0,4,7.0,Yes
+993616,Anna King,Townhouse,Inner Suburb,2,2,3,4.32,8,No,0,56.0,3,5.0,Yes
+993329,Noah Khan,Townhouse,Inner Suburb,2,2,4,4.69,50,Yes,6,68.0,3,8.0,No
+992541,Oliver Scott,Apartment,CBD,2,2,4,4.66,35,Yes,8,53.0,1,8.0,No
+996573,Lucas Lee,House,Outer Suburb,4,3,9,4.59,31,Yes,3,84.0,2,5.0,Yes
+996405,William Walker,Studio,Outer Suburb,1,2,2,4.54,40,No,2,81.0,1,6.0,Yes
+995706,Mei Young,Townhouse,CBD,2,3,6,4.51,74,No,1,68.0,3,6.0,Yes
+996030,Zoe Walker,House,Outer Suburb,5,3,10,4.59,100,No,5,107.0,4,9.0,No
+995086,Anna Wang,Studio,Regional,1,2,3,4.43,58,No,7,43.0,1,5.0,Yes
+994447,Olivia Taylor,Villa,Regional,5,3,9,4.51,127,Yes,0,112.0,2,8.0,Yes
+994273,Hannah Smith,Studio,Inner Suburb,1,1,1,4.67,55,Yes,7,45.0,1,4.0,Yes
+997943,Jack Patel,Studio,Outer Suburb,1,1,3,4.39,56,Yes,12,59.0,2,4.0,No
+995155,Mia Ali,House,CBD,3,3,8,4.3,36,No,6,77.0,3,7.0,No
+990268,Samuel Thomas,House,Inner Suburb,4,4,7,4.57,37,No,1,81.0,1,6.0,Yes
+990959,Aisha Nguyen,Townhouse,Outer Suburb,3,2,8,4.72,197,Yes,13,72.0,2,8.0,No
+995040,Jack White,House,CBD,2,2,6,4.16,8,No,2,39.0,1,4.0,Yes
+994514,Henry Singh,Studio,Regional,1,2,4,4.53,46,Yes,2,42.0,3,5.0,Yes
+995687,Daniel Scott,Apartment,Regional,2,2,5,4.71,6,No,1,50.0,3,6.0,No
+992014,David Brown,Apartment,CBD,1,1,2,4.7,21,No,3,45.0,2,5.0,No
+995678,Priya Lee,Apartment,Outer Suburb,3,2,6,4.7,48,Yes,7,78.0,1,6.0,No
+990482,Thomas White,Apartment,Outer Suburb,1,1,4,4.44,22,No,1,50.0,2,6.0,No
+997577,Lucas Tran,Townhouse,Outer Suburb,3,3,6,,28,No,7,72.0,3,5.0,Yes
+994686,An Tran,Apartment,Inner Suburb,2,3,4,4.57,19,No,1,81.0,3,4.0,No
+994050,Hannah Smith,House,Regional,3,3,6,4.83,49,Yes,4,66.0,2,6.0,Yes
+992591,Mai Chen,House,Inner Suburb,2,2,6,4.88,32,Yes,4,55.0,14,5.0,Yes
+992353,David White,Apartment,CBD,1,1,3,4.49,106,No,4,45.0,1,4.0,No
+990934,Linh Clark,Apartment,Inner Suburb,2,2,5,4.81,52,Yes,1,75.0,5,8.0,No
+996121,Emily White,Townhouse,Inner Suburb,3,1,5,4.34,5,No,0,76.0,1,6.0,No
+993360,Daniel Tran,House,Outer Suburb,3,3,5,4.55,83,Yes,2,77.0,1,5.0,No
+992137,Arjun Martin,House,Inner Suburb,4,2,8,4.4,25,No,2,63.0,1,3.0,Yes
+991802,Zoe Scott,House,Outer Suburb,5,2,10,4.82,140,Yes,1,88.0,2,7.0,Yes
+990954,Emma Taylor,Apartment,Regional,1,2,1,4.77,88,Yes,1,51.0,1,5.0,No
+995326,Priya Chen,Townhouse,CBD,2,1,4,4.62,172,Yes,5,50.0,1,5.0,No
+997008,Aisha Taylor,Apartment,CBD,2,3,4,3.97,60,No,3,70.0,1,6.0,No
+994241,Linh King,Villa,Inner Suburb,2,2,6,4.74,43,Yes,1,56.0,2,6.0,Yes
+995942,Chloe Le,Studio,Outer Suburb,1,1,3,4.18,36,No,1,56.0,1,4.0,Yes
+993729,Anna Nguyen,House,Inner Suburb,2,2,3,4.21,16,No,2,66.0,1,7.0,Yes
+992721,Henry Brown,Apartment,Regional,1,2,2,4.42,26,Yes,0,69.0,3,6.0,No
+992793,Thomas White,Apartment,Outer Suburb,2,1,3,4.96,96,Yes,8,55.0,1,8.0,Yes
+993288,Samuel Taylor,Apartment,Outer Suburb,1,1,2,5.0,102,Yes,9,49.0,2,6.0,Yes
+990628,Jack Anderson,Apartment,Inner Suburb,1,1,1,,35,Yes,0,,3,6.0,Yes
+993580,Minh King,Studio,Regional,1,1,1,4.56,12,No,5,48.0,1,4.0,No
+995614,Lily Harris,Townhouse,Outer Suburb,2,2,3,4.72,34,No,15,66.0,3,7.0,Yes
+992309,Sarah Tran,Townhouse,Inner Suburb,3,2,5,4.25,28,N,7,82.0,1,5.0,Yes
+993493,Omar Wang,House,CBD,2,2,4,4.81,34,No,3,51.0,14,7.0,No
+994304,Lucas Wang,Apartment,CBD,1,1,4,4.9,45,Yes,4,67.0,5,5.0,Yes
+996557,Michael Ali,Villa,Regional,3,3,7,4.54,52,No,1,83.0,2,7.0,Yes
+996240,An Taylor,Studio,Regional,1,2,3,4.53,84,Yes,9,36.0,1,3.0,Yes
+995236,Lily White,Apartment,CBD,1,1,2,4.19,18,No,4,37.0,1,4.0,Yes
+991912,David Nguyen,House,Outer Suburb,5,4,10,4.64,244,Yes,3,125.0,1,8.0,Yes
+991389,Arjun Wang,House,Outer Suburb,2,2,6,4.15,20,No,2,58.0,2,2.0,No
+996662,Mai Ali,House,Regional,2,2,5,4.16,63,Yes,12,56.0,2,8.0,No
+991309,Omar Ali,Apartment,Outer Suburb,1,1,2,4.71,17,No,4,24.0,1,3.0,Yes
+993628,David Singh,Townhouse,Outer Suburb,2,2,4,4.39,34,Yes,6,60.0,1,6.0,Yes
+996808,Omar Patel,Apartment,CBD,1,2,1,4.48,51,No,1,64.0,7,5.0,Yes
+993214,Thomas Thomas,Apartment,Inner Suburb,2,2,3,4.59,0,No,0,53.0,2,4.0,No
+992672,Mei Khan,Apartment,Outer Suburb,1,1,4,4.63,17,No,5,57.0,3,5.0,No
+996976,Amelia Taylor,House,Inner Suburb,4,3,8,4.2,15,No,3,93.0,5,,Yes
+996173,Amelia Walker,Apartment,CBD,2,3,4,4.24,31,No,3,58.0,3,8.0,Yes
+990319,Wei Wang,Studio,CBD,1,2,2,4.84,108,Yes,4,50.0,2,4.0,Yes
+996140,Jack King,Townhouse,Outer Suburb,3,3,7,4.54,3,No,1,77.0,2,6.0,Yes
+993721,Noah Lee,Apartment,Outer Suburb,2,1,4,4.56,6,No,0,45.0,1,7.0,Yes
+992724,Isla Martin,House,Inner Suburb,2,2,3,4.35,42,No,7,58.0,3,8.0,No
+997392,Anna Smith,House,Inner Suburb,4,2,9,3.55,19,No,3,66.0,1,5.0,No
+994322,Mei Harris,Studio,Inner Suburb,1,2,3,3.99,7,No,0,48.0,1,4.0,No
+992894,Priya Walker,Townhouse,Outer Suburb,3,2,7,4.31,16,No,1,72.0,5,7.0,Yes
+994531,Liam Nguyen,House,Outer Suburb,5,3,10,4.76,132,Yes,2,107.0,4,8.0,Yes
+991775,Linh Wilson,Apartment,Outer Suburb,1,1,2,4.7,21,Yes,0,46.0,3,6.0,Yes
+996588,Priya Walker,Apartment,Outer Suburb,1,1,4,4.5,131,No,4,52.0,2,6.0,No
+992346,Arjun Le,House,Inner Suburb,4,3,8,5.0,1,No,1,93.0,1,10.0,No
+994870,Amelia Ali,Apartment,Regional,1,2,4,4.75,52,Yes,0,36.0,10,4.0,No
+993007,Ben Chen,Apartment,Inner Suburb,2,2,3,4.5,41,Yes,5,56.0,3,3.0,No
+994405,Priya Wang,Apartment,Outer Suburb,2,2,3,4.66,56,Yes,2,68.0,4,6.0,No
+992862,Thomas Thomas,Villa,CBD,3,3,7,4.35,34,Yes,5,78.0,1,6.0,Yes
+992625,Ben Chen,Apartment,Inner Suburb,2,1,5,4.61,34,No,1,63.0,3,4.0,Yes
+995325,Thomas Clark,Apartment,Outer Suburb,1,1,1,4.32,135,Yes,8,34.0,2,3.0,Yes
+997233,Oliver Nguyen,Studio,Inner Suburb,1,2,2,4.37,100,Yes,3,48.0,2,3.0,Yes
+996400,Isla White,House,Outer Suburb,2,2,4,4.91,21,Yes,1,48.0,2,,No
+990546,Olivia Khan,Studio,Inner Suburb,1,2,1,4.44,4,No,1,46.0,3,3.0,No
+993797,Michael Wang,Apartment,CBD,3,2,8,4.43,18,Yes,1,76.0,1,5.0,No
+995559,Zoe Chen,House,CBD,3,2,6,4.71,61,No,1,88.0,1,7.0,Yes
+997844,Olivia Wang,House,Outer Suburb,2,1,4,4.46,36,Yes,5,55.0,1,7.0,Yes
+997185,Wei Smith,Apartment,Inner Suburb,1,1,2,3.99,24,Yes,1,38.0,5,4.0,Yes
+993173,Omar Walker,Apartment,Outer Suburb,1,1,4,5.0,22,Yes,0,44.0,2,4.0,No
+990716,Sophie Lee,Townhouse,Inner Suburb,3,3,8,4.98,39,Yes,4,79.0,3,7.0,Yes
+992338,Mia Scott,Studio,Inner Suburb,1,1,4,3.97,34,No,3,49.0,5,6.0,No
+996744,James Patel,Apartment,CBD,1,1,4,,0,No,0,50.0,4,6.0,Yes
+991212,Isla Patel,Townhouse,Regional,4,3,9,4.53,76,No,1,79.0,5,7.0,Yes
+996958,Lucas Wang,Apartment,CBD,1,2,4,4.29,6,No,1,62.0,1,4.0,Yes
+995934,Mia King,Apartment,Regional,1,1,2,4.27,48,No,1,42.0,7,3.0,No
+996318,Jack Patel,House,Inner Suburb,2,2,3,4.14,56,Yes,6,52.0,1,5.0,No
+996562,James Lee,HOUSE,Inner Suburb,2,2,4,4.33,33,No,4,64.0,2,6.0,No
+993775,Sarah Young,Townhouse,Regional,2,2,5,4.4,29,No,1,48.0,1,6.0,No
+997895,Chloe Young,House,Inner Suburb,4,3,8,4.34,5,No,1,80.0,4,5.0,No
+992213,Chloe Harris,House,Inner Suburb,4,3,8,4.86,42,Yes,5,83.0,1,7.0,Yes
+993401,Sarah Patel,Apartment,Inner Suburb,1,2,2,4.86,59,Yes,5,65.0,5,7.0,Yes
+993609,Mia Walker,Studio,Outer Suburb,1,2,1,4.27,55,No,5,45.0,4,3.0,Yes
+996237,Oliver Jones,Apartment,Outer Suburb,2,2,5,4.36,18,No,1,62.0,2,7.0,No
+995135,Anna Chen,House,Outer Suburb,3,2,6,4.32,78,Yes,15,64.0,2,7.0,Yes
+992681,Minh Wang,House,Regional,3,1,5,4.74,2,No,0,60.0,1,7.0,Yes
+990730,Hannah Brown,Apartment,CBD,1,1,3,4.26,93,Yes,3,54.0,1,7.0,No
+995141,Daniel Wilson,Townhouse,Outer Suburb,3,2,8,4.6,93,Yes,4,79.0,1,6.0,No
+996804,Chloe Martin,House,Inner Suburb,3,2,7,4.39,27,No,4,67.0,1,7.0,No
+994153,Chloe Thomas,Apartment,CBD,1,2,2,4.51,16,No,5,56.0,2,6.0,Yes
+997398,Jack Le,Townhouse,CBD,3,2,6,4.12,44,Yes,1,66.0,1,6.0,Yes
+991502,Zoe Nguyen,Studio,Regional,1,2,3,4.37,73,Yes,3,46.0,5,3.0,No
+994523,Zoe Lee,House,Outer Suburb,2,2,4,4.81,132,Yes,1,60.0,1,6.0,Yes
+991752,Emily Jones,House,Regional,3,2,6,4.62,27,No,0,78.0,2,7.0,No
+990347,Omar Jones,Apartment,Outer Suburb,2,2,3,4.39,22,No,2,66.0,1,8.0,No
+994093,Emma White,House,Inner Suburb,4,3,7,4.2,27,No,6,81.0,3,5.0,No
+993610,Mei Smith,House,Inner Suburb,3,3,5,4.56,43,No,11,74.0,1,5.0,Yes
+990082,Mei Lee,Villa,CBD,2,2,5,4.51,28,Yes,3,65.0,2,6.0,No
+995426,Omar King,Studio,Outer Suburb,1,2,1,4.2,31,No,0,70.0,3,8.0,Yes
+993535,Oliver Wilson,Studio,Regional,1,1,1,4.42,65,No,6,62.0,2,5.0,No
+990797,Ben Chen,House,Outer Suburb,4,3,8,4.42,24,No,3,81.0,2,4.0,Yes
+992442,Mia Young,House,Inner Suburb,3,2,8,4.44,67,No,2,88.0,3,5.0,Yes
+997753,Sophie Singh,Villa,CBD,4,2,10,4.47,25,No,1,79.0,1,6.0,No
+992808,Aisha King,Studio,Regional,1,1,4,4.21,13,No,3,59.0,3,3.0,No
+994297,James Clark,Apartment,Outer Suburb,2,2,6,4.63,195,Yes,9,55.0,1,7.0,Yes
+995789,Ava Martin,Townhouse,Outer Suburb,3,2,5,4.36,46,No,6,76.0,2,7.0,Yes
+990684,Thomas Harris,Apartment,Outer Suburb,1,2,4,4.26,104,Yes,9,51.0,1,6.0,No
+990167,Sarah Brown,Apartment,Outer Suburb,1,2,2,4.52,58,Yes,5,46.0,3,4.0,Yes
+992977,Grace Brown,House,Outer Suburb,4,3,8,4.36,59,Yes,15,82.0,1,7.0,Yes
+996234,Ava Taylor,Villa,Outer Suburb,4,2,7,,35,No,6,,2,9.0,Yes
+994091,An Martin,Apartment,CBD,1,2,1,4.31,47,No,0,55.0,4,7.0,Yes
+994726,Ethan Walker,Apartment,Outer Suburb,1,1,4,4.14,35,Yes,1,40.0,5,4.0,No
+997146,Wei Martin,Townhouse,Inner Suburb,2,2,4,4.42,22,Yes,4,52.0,1,5.0,Yes
+995328,Mia Brown,Studio,Inner Suburb,1,2,4,4.59,42,No,8,35.0,1,6.0,No
+995578,Sophie Walker,House,Regional,3,3,6,4.28,53,No,3,71.0,1,7.0,Yes
+997023,Daniel Le,House,Inner Suburb,3,2,6,4.87,26,Yes,3,76.0,2,6.0,No
+992484,Priya Patel,Apartment,Inner Suburb,1,2,2,4.69,88,No,0,51.0,3,4.0,Yes
+992686,Aisha Nguyen,Apartment,Outer Suburb,1,1,1,4.33,40,No,8,48.0,3,4.0,Yes
+993072,Olivia Khan,Studio,CBD,1,2,1,4.41,133,Yes,5,63.0,1,7.0,Yes
+995866,Michael White,Apartment,CBD,1,1,2,4.46,73,No,5,52.0,2,4.0,Yes
+996755,Emily Wilson,House,Inner Suburb,3,1,7,4.51,134,Yes,2,80.0,1,10.0,Yes
+996172,Lily King,Apartment,Outer Suburb,1,2,2,4.13,126,No,4,57.0,2,6.0,Yes
+992002,Hannah Taylor,Apartment,CBD,2,3,4,4.73,50,Yes,7,85.0,2,7.0,Yes
+993330,Sarah Harris,Townhouse,Outer Suburb,3,3,7,5.0,25,Yes,2,80.0,4,6.0,Yes
+992826,David Ali,House,Outer Suburb,3,3,7,4.47,16,No,6,81.0,1,5.0,Yes
+990426,Emily Clark,Apartment,Inner Suburb,2,2,3,4.61,52,Yes,1,61.0,1,7.0,Yes
+993602,Jack White,Apartment,Inner Suburb,2,2,4,4.76,196,Yes,4,69.0,2,7.0,Yes
+997717,Ben Tran,Apartment,CBD,1,2,2,4.25,15,No,7,43.0,2,6.0,Yes
+996139,Mia Harris,Apartment,Inner Suburb,3,3,6,4.69,105,No,15,80.0,3,6.0,Yes
+990832,Liam Khan,House,Regional,2,2,4,4.48,54,Yes,0,61.0,1,5.0,Yes
+995946,Zoe Singh,Apartment,Regional,1,2,2,4.69,46,Yes,2,51.0,1,5.0,No
+996834,An King,Apartment,Inner Suburb,2,2,6,4.04,20,Yes,3,50.0,4,3.0,Yes
+992532,Lily Taylor,Apartment,Outer Suburb,1,2,2,4.56,110,Yes,15,43.0,1,8.0,Yes
+995986,Sophie Tran,Villa,CBD,5,3,10,4.2,34,Yes,0,93.0,1,6.0,Yes
+992573,Zoe Harris,Townhouse,Outer Suburb,4,3,7,4.31,65,Yes,0,73.0,1,5.0,No
+993820,Priya Wilson,Villa,Outer Suburb,3,2,6,4.62,11,No,3,77.0,7,9.0,Yes
+990149,Thomas King,Apartment,Regional,1,1,4,4.59,81,No,1,32.0,4,3.0,Yes
+997497,Ethan Wang,Studio,CBD,1,2,4,4.98,33,No,5,62.0,1,9.0,Yes
+995650,Zoe Brown,Townhouse,Regional,4,3,9,4.72,0,No,0,85.0,2,6.0,Yes
+997491,Thomas Singh,Townhouse,CBD,2,2,5,4.35,18,No,3,44.0,1,4.0,Yes
+996653,Aisha Clark,House,Inner Suburb,2,1,6,4.1,58,Yes,8,59.0,2,5.0,No
+993057,Aisha Harris,House,Inner Suburb,5,3,10,4.4,105,Yes,4,99.0,2,6.0,No
+991785,Noah Khan,Villa,CBD,4,2,8,4.67,35,No,3,71.0,2,6.0,Yes
+991054,Linh Khan,Apartment,Regional,1,2,2,4.5,90,Yes,14,56.0,3,8.0,Yes
+990948,Isla White,Apartment,Inner Suburb,1,2,2,4.3,48,Yes,4,54.0,7,6.0,Yes
+997515,Sophie Le,House,Outer Suburb,2,2,6,4.12,126,No,2,67.0,3,6.0,Yes
+993556,Arjun Taylor,Apartment,Inner Suburb,2,2,3,4.44,51,No,2,67.0,3,8.0,Yes
+996793,Lily Anderson,Apartment,CBD,1,2,2,4.09,25,No,4,54.0,2,4.0,No
+992440,Lily King,House,CBD,4,3,9,4.29,62,Yes,3,63.0,3,6.0,No
+992155,Grace Harris,House,Regional,3,2,8,4.55,0,No,0,63.0,1,6.0,No
+997986,Lily Wilson,House,CBD,4,3,8,4.77,86,No,7,85.0,3,7.0,Yes
+995212,Ben Ali,Apartment,Outer Suburb,2,2,6,4.42,71,Yes,14,63.0,2,5.0,Yes
+996265,Arjun White,House,CBD,2,3,4,3.69,50,No,3,63.0,3,5.0,No
+993696,Mia King,Apartment,Inner Suburb,1,2,2,4.41,38,No,4,41.0,2,7.0,Yes
+993731,William Smith,Apartment,Inner Suburb,1,2,4,4.24,49,No,1,48.0,1,2.0,Yes
+993170,Thomas Lee,Apartment,Outer Suburb,1,1,1,4.26,73,No,11,27.0,2,3.0,Yes
+993752,James Khan,Apartment,Regional,1,1,2,4.28,54,Yes,3,80.0,1,7.0,No
+990504,Emma Anderson,Apartment,Regional,1,1,2,4.59,73,No,3,56.0,1,,No
+991419,Ben Scott,House,Regional,2,2,3,4.3,44,No,5,66.0,2,8.0,No
+992038,Minh Smith,Apartment,Regional,1,2,1,4.67,39,Yes,4,46.0,1,3.0,Yes
+993479,Wei Singh,House,Inner Suburb,3,2,6,4.25,23,No,1,85.0,1,5.0,Yes
+994830,Emma Nguyen,Apartment,CBD,1,1,1,4.14,17,Yes,2,40.0,2,2.0,No
+997457,Ethan Patel,House,Outer Suburb,2,2,6,5.0,40,No,4,50.0,1,7.0,No
+996013,Chloe King,Studio,Regional,1,1,1,3.93,23,No,3,27.0,5,3.0,Yes
+992257,Noah Nguyen,Apartment,Outer Suburb,1,2,4,4.8,45,Yes,5,61.0,1,6.0,No
+994186,Omar Patel,House,Outer Suburb,2,1,4,4.61,143,Yes,12,55.0,1,4.0,No
+997384,Wei Lee,Apartment,Outer Suburb,2,1,4,4.36,23,Yes,2,56.0,4,5.0,No
+991488,Mei Le,Villa,CBD,4,2,7,4.94,22,Yes,1,76.0,3,7.0,Yes
+995898,Emma Thomas,Villa,Outer Suburb,5,3,10,4.98,80,Yes,1,106.0,3,10.0,No
+995920,Daniel Martin,House,CBD,3,1,6,4.38,67,No,14,63.0,2,3.0,Yes
+995530,Ben Nguyen,Studio,Outer Suburb,1,2,2,4.37,60,No,2,56.0,1,3.0,No
+997451,Mia Thomas,Apartment,Outer Suburb,3,3,5,4.66,19,No,3,79.0,1,8.0,Yes
+993082,Zoe Patel,Villa,Inner Suburb,5,2,9,4.4,178,Yes,3,82.0,2,8.0,Yes
+992612,Emily Jones,Apartment,Outer Suburb,2,2,4,4.5,10,No,1,54.0,2,8.0,Yes
+991058,Priya White,Apartment,Outer Suburb,3,3,7,4.68,17,No,1,73.0,1,8.0,No
+993702,Noah Nguyen,Apartment,Regional,1,1,1,4.75,21,No,10,22.0,2,4.0,Yes
+991200,Amelia Clark,Apartment,Outer Suburb,1,1,2,4.1,41,Yes,15,28.0,2,3.0,Yes
+996505,Lucas King,Apartment,Outer Suburb,1,1,1,4.17,27,No,3,45.0,3,3.0,Yes
+990310,James Brown,House,Inner Suburb,4,3,8,4.77,92,Yes,2,91.0,3,6.0,No
+993227,Amelia King,Studio,Outer Suburb,1,2,1,4.42,2,No,0,51.0,1,5.0,Yes
+994555,Arjun Wilson,House,Outer Suburb,4,3,10,4.57,25,No,2,76.0,10,7.0,Yes
+994987,Aisha Scott,Apartment,CBD,1,2,4,4.7,107,No,6,58.0,1,7.0,No
+990756,Zoe Khan,House,Regional,5,3,10,4.97,64,No,6,103.0,1,6.0,Yes
+990110,Zoe Tran,Townhouse,Outer Suburb,3,2,7,3.75,18,No,5,59.0,2,4.0,Yes
+996930,Amelia Taylor,Studio,Inner Suburb,1,1,3,4.2,47,No,4,58.0,3,8.0,No
+992271,Arjun Tran,House,Inner Suburb,4,3,10,4.64,51,Yes,5,90.0,1,,No
+996508,Olivia Clark,Apartment,Outer Suburb,2,2,4,4.72,121,Yes,0,69.0,1,6.0,Yes
+995864,Arjun Nguyen,Apartment,Inner Suburb,1,1,2,4.16,24,No,0,44.0,3,4.0,No
+994662,Minh Martin,Apartment,Regional,1,1,4,4.13,73,No,3,48.0,3,5.0,No
+990472,Minh Scott,Apartment,Outer Suburb,2,2,6,4.07,42,No,8,56.0,7,5.0,No
+991666,Arjun Clark,Studio,Regional,1,2,2,4.75,33,No,9,61.0,1,7.0,Yes
+991522,Emily Chen,House,Inner Suburb,3,2,7,4.63,27,Yes,6,83.0,2,9.0,Yes
+995017,Isla White,Apartment,Regional,1,1,2,4.6,68,Yes,10,46.0,3,4.0,No
+991811,Hannah Smith,Apartment,Outer Suburb,1,2,1,4.33,6,No,2,43.0,2,5.0,Yes
+996966,Chloe Walker,Studio,Inner Suburb,1,1,3,4.43,23,No,6,45.0,2,6.0,No
+994747,Minh Wilson,House,Outer Suburb,3,2,6,4.57,29,No,1,59.0,1,5.0,Yes
+992641,David Anderson,House,Outer Suburb,4,2,10,4.68,52,Yes,4,83.0,2,9.0,No
+992843,Liam King,House,Inner Suburb,4,3,8,4.48,73,Yes,3,87.0,1,5.0,No
+996480,Liam Walker,House,Inner Suburb,3,2,7,4.42,40,No,15,71.0,1,5.0,No
+991409,Zoe Jones,House,Outer Suburb,3,2,7,5.0,23,No,3,80.0,2,7.0,No
+992544,Daniel Taylor,House,CBD,5,3,10,4.07,40,No,3,112.0,1,7.0,Yes
+995545,Jack Taylor,Studio,Outer Suburb,1,1,2,4.32,32,Yes,8,44.0,2,5.0,Yes
+994496,Isla Ali,Apartment,Regional,2,2,3,4.52,105,Yes,15,74.0,1,7.0,Yes
+997575,Samuel Anderson,Townhouse,Inner Suburb,3,2,6,4.38,73,No,3,80.0,5,6.0,Yes
+991820,Zoe Taylor,Apartment,Inner Suburb,1,1,2,3.85,14,No,3,47.0,1,4.0,Yes
+992917,Henry Anderson,Villa,Outer Suburb,4,3,10,4.72,27,No,5,107.0,3,8.0,Yes
+991506,Hannah Le,Villa,Regional,3,2,8,4.65,11,No,2,68.0,5,5.0,Yes
+994311,Emma Tran,Studio,Regional,1,1,2,4.27,20,No,4,41.0,2,7.0,Yes
+994170,Isla Taylor,Apartment,Regional,1,2,2,4.01,68,No,5,42.0,2,2.0,Yes
+993104,Emma Wang,Apartment,CBD,1,2,3,4.16,28,Yes,0,60.0,7,5.0,No
+995446,Emily Le,Studio,Outer Suburb,1,2,4,4.54,33,Yes,2,41.0,3,4.0,No
+993916,Liam Lee,House,Outer Suburb,3,2,8,,18,No,4,,1,6.0,Yes
+993346,Zoe Jones,Studio,CBD,1,2,3,3.86,37,No,5,56.0,2,,Yes
+994754,Wei Anderson,Apartment,Inner Suburb,1,1,3,4.28,40,Yes,7,35.0,2,3.0,Yes
+990534,Minh King,Studio,Inner Suburb,1,2,2,4.13,136,No,7,40.0,1,6.0,No
+991142,Oliver Patel,House,Inner Suburb,2,1,5,4.33,3,No,0,47.0,2,7.0,Yes
+994667,Priya King,Studio,Inner Suburb,1,1,1,4.06,19,No,5,60.0,5,8.0,No
+996867,Mia White,House,Regional,3,3,6,4.39,15,No,3,89.0,1,5.0,No
+993179,Lily Young,Studio,Inner Suburb,1,2,2,4.54,29,No,10,53.0,1,4.0,Yes
+995803,Hannah King,Studio,Outer Suburb,1,1,3,4.04,15,No,3,56.0,3,5.0,Yes
+995019,Grace Jones,Apartment,Outer Suburb,2,2,3,4.39,35,No,4,63.0,1,6.0,No
+994599,Arjun King,House,Outer Suburb,2,1,6,4.48,94,No,7,61.0,2,5.0,Yes
+997155,James Tran,Apartment,CBD,3,2,8,4.3,56,Yes,11,77.0,2,5.0,No
+991994,Emily Le,House,CBD,4,3,9,4.84,49,Yes,11,99.0,3,,Yes
+991305,Hannah Anderson,Apartment,Regional,2,2,4,4.93,22,No,10,66.0,1,8.0,Yes
+991948,Emma Tran,Apartment,Regional,1,1,1,4.36,84,No,5,50.0,2,4.0,Yes
+990475,James Scott,Apartment,Inner Suburb,1,1,2,4.43,128,No,12,51.0,1,5.0,Yes
+992534,Arjun Wang,Apartment,CBD,1,2,3,,64,No,6,,1,6.0,Yes
+995526,Grace Ali,Townhouse,CBD,3,2,5,4.8,51,No,4,72.0,2,4.0,Yes
+996908,Mei Smith,Apartment,Outer Suburb,1,2,4,4.54,40,No,0,45.0,1,3.0,Yes
+997319,Aisha Martin,Studio,Outer Suburb,1,1,1,4.5,27,No,1,49.0,5,7.0,Yes
+995042,Arjun Patel,Studio,CBD,1,1,1,4.57,177,No,15,45.0,2,6.0,Yes
+993866,Daniel Lee,Studio,Outer Suburb,1,2,2,4.92,36,Yes,1,69.0,3,8.0,Yes
+992838,Liam Taylor,Apartment,Inner Suburb,2,3,3,4.52,122,No,2,62.0,2,6.0,Yes
+993019,Sophie Young,Apartment,Inner Suburb,2,3,4,4.31,80,No,3,73.0,2,3.0,Yes
+994803,Priya Singh,Townhouse,Outer Suburb,4,3,8,4.34,46,No,4,109.0,1,8.0,Yes
+993235,Michael Lee,House,Inner Suburb,3,2,7,4.52,84,No,0,76.0,3,7.0,Yes
+990701,Wei Young,Townhouse,Inner Suburb,3,3,5,,44,No,1,,2,4.0,No
+990374,Mia Jones,Apartment,Outer Suburb,2,1,4,4.36,30,Yes,1,50.0,2,6.0,Yes
+997615,Lily Chen,Apartment,CBD,1,1,3,4.3,138,No,1,28.0,1,5.0,No
+992799,Ben Wilson,Apartment,Outer Suburb,1,2,4,4.31,17,No,5,43.0,1,5.0,No
+993525,Amelia Lee,Apartment,Regional,2,1,4,4.69,71,No,8,57.0,3,5.0,Yes
+991278,Samuel Smith,Apartment,CBD,1,2,2,4.17,22,No,3,72.0,2,5.0,Yes
+993636,Mia Young,Apartment,Inner Suburb,2,2,4,4.66,52,No,8,52.0,2,4.0,Yes
+991673,Liam Khan,House,Inner Suburb,3,2,7,4.1,30,No,1,78.0,1,6.0,No
+994197,Samuel Nguyen,Apartment,Regional,1,2,1,4.33,43,Yes,6,60.0,3,6.0,No
+991435,Amelia Khan,Apartment,Inner Suburb,3,3,5,4.72,32,Yes,0,74.0,2,7.0,Yes
+993101,Lily Chen,House,Inner Suburb,2,2,3,3.94,68,No,3,66.0,1,6.0,Yes
+991484,Ethan Chen,House,CBD,3,3,6,5.0,98,Yes,9,91.0,1,6.0,Yes
+997724,David Nguyen,Apartment,Regional,1,1,4,4.12,20,No,2,28.0,2,3.0,Yes
+992651,Omar Nguyen,Apartment,Inner Suburb,1,2,2,4.3,15,No,2,50.0,1,6.0,Yes
+991773,Ben Clark,House,Outer Suburb,2,2,5,4.92,117,Yes,1,95.0,3,9.0,No
+997402,Ethan Wang,Apartment,Outer Suburb,1,1,3,4.46,50,No,2,39.0,1,6.0,Yes
+992860,Sarah White,Townhouse,Inner Suburb,4,3,10,4.36,21,No,1,95.0,1,8.0,No
+996721,Mai Le,Studio,Regional,1,2,3,4.3,14,No,0,40.0,1,7.0,No
+997353,Lily Scott,Apartment,Regional,2,2,3,4.15,86,Yes,15,62.0,1,3.0,No
+996903,Grace Smith,House,CBD,2,2,3,4.3,104,No,6,64.0,1,5.0,No
+992165,Ava Brown,House,Inner Suburb,4,3,7,3.91,21,No,5,85.0,1,2.0,No
+994945,Grace King,Townhouse,Outer Suburb,2,2,3,4.71,61,Yes,0,62.0,2,7.0,Yes
+997719,An King,Apartment,Outer Suburb,1,1,2,4.83,129,Yes,5,49.0,3,4.0,No
+997163,Mai Le,Apartment,Inner Suburb,1,2,4,,47,No,3,,4,4.0,No
+996102,Ben White,House,Regional,3,2,7,4.81,26,Yes,1,73.0,2,6.0,Yes
+992066,Henry Patel,Townhouse,Inner Suburb,2,1,3,4.19,44,No,3,66.0,1,8.0,No
+994389,Hannah Ali,Studio,CBD,1,1,2,4.36,53,Yes,5,57.0,2,8.0,No
+993502,William Thomas,Apartment,Inner Suburb,3,3,8,4.58,107,No,0,63.0,1,6.0,Yes
+996445,Lily Nguyen,Apartment,CBD,2,1,5,4.32,21,No,2,30.0,1,6.0,No
+995565,Chloe Patel,Townhouse,Inner Suburb,2,2,6,4.4,61,Yes,7,73.0,3,7.0,Yes
+990650,Amelia Tran,Apartment,Inner Suburb,2,1,4,4.75,127,No,1,55.0,3,7.0,Yes
+990345,Lucas Smith,Apartment,Outer Suburb,1,1,1,4.22,26,No,3,45.0,3,4.0,Yes
+990399,Michael Thomas,Studio,Regional,1,1,2,4.76,37,Yes,2,45.0,2,6.0,No
+995046,Noah Nguyen,House,CBD,2,2,5,4.48,10,No,1,75.0,1,6.0,Yes
+997802,Linh Walker,Apartment,Inner Suburb,3,2,8,4.56,22,No,5,80.0,2,6.0,Yes
+994609,Linh Clark,Apartment,Outer Suburb,1,1,1,4.41,22,Yes,5,41.0,3,4.0,No
+990483,Aisha Taylor,Townhouse,Regional,4,3,8,,142,Yes,3,,3,7.0,No
+990781,Priya Taylor,Apartment,Inner Suburb,2,1,6,4.29,55,No,1,50.0,3,6.0,Yes
+992051,Aisha Jones,House,Inner Suburb,4,3,8,4.58,33,Yes,1,107.0,1,7.0,No
+996019,Oliver Young,Apartment,Inner Suburb,1,2,3,4.42,122,Yes,11,69.0,1,7.0,No
+996783,Ava Chen,Townhouse,Inner Suburb,3,2,6,4.14,30,No,1,76.0,2,7.0,Yes
+996745,Olivia Walker,Studio,CBD,1,2,2,4.11,84,No,1,52.0,1,3.0,No
+995723,Aisha Harris,Apartment,Outer Suburb,1,1,1,4.44,46,No,11,55.0,1,7.0,Yes
+997395,Mia Khan,Villa,Inner Suburb,4,3,8,4.19,82,No,6,69.0,3,6.0,No
+992893,Omar Le,House,Outer Suburb,4,3,8,4.39,5,No,1,99.0,3,7.0,Yes
+994042,Mei White,Apartment,CBD,2,2,4,4.6,82,Yes,13,60.0,1,3.0,Yes
+994453,Sarah Wang,Townhouse,Regional,4,2,7,4.44,44,No,0,91.0,1,9.0,Yes
+996826,Daniel Walker,Apartment,CBD,1,2,2,4.02,40,No,1,55.0,1,6.0,Yes
+992420,Lily Patel,Apartment,Regional,1,1,3,4.28,59,Yes,15,42.0,3,4.0,Yes
+995445,Mia Wilson,Apartment,Outer Suburb,1,1,2,4.6,216,No,1,58.0,1,9.0,Yes
+995403,Hannah Smith,Studio,Inner Suburb,1,2,3,4.6,25,No,7,48.0,1,7.0,No
+996553,Arjun Singh,Apartment,Inner Suburb,2,1,4,4.38,28,Yes,10,47.0,1,5.0,Yes
+992230,Sophie Patel,Apartment,Outer Suburb,1,2,2,4.54,48,Yes,2,44.0,1,6.0,Yes
+990649,Mei Chen,House,Regional,4,3,7,4.0,19,No,3,111.0,2,7.0,No
+996547,Arjun Martin,Apartment,Inner Suburb,2,2,3,4.8,41,Yes,3,71.0,3,6.0,Yes
+995781,Zoe Young,House,Outer Suburb,5,3,10,4.24,14,No,2,96.0,1,9.0,Yes
+996711,Ava Chen,Studio,Outer Suburb,1,1,2,4.79,54,Yes,8,61.0,4,8.0,No
+996156,Thomas Martin,Apartment,Outer Suburb,3,1,7,4.53,37,Yes,6,76.0,2,8.0,Yes
+993926,An Ali,Studio,Inner Suburb,1,1,3,4.39,41,No,3,52.0,1,6.0,No
+990158,Isla Brown,House,Inner Suburb,3,2,7,4.64,55,No,1,69.0,3,5.0,Yes
+996503,Mei Patel,Apartment,CBD,3,3,6,3.8,37,No,2,81.0,3,4.0,No
+992975,Sophie Brown,Apartment,Inner Suburb,2,2,4,4.66,55,Yes,0,50.0,1,6.0,Yes
+994650,Ben Jones,Studio,CBD,1,1,2,4.34,36,Yes,4,49.0,2,7.0,Yes
+991204,Amelia Walker,Apartment,Outer Suburb,1,1,3,4.9,84,Yes,4,55.0,2,6.0,Yes
+996387,James Wang,Townhouse,Inner Suburb,4,2,8,4.68,70,Yes,14,104.0,1,7.0,Yes
+990172,Oliver Tran,Apartment,Outer Suburb,1,1,2,4.85,27,Yes,0,41.0,2,5.0,No
+991879,Isla Chen,Apartment,Inner Suburb,1,1,4,4.44,78,No,1,46.0,1,8.0,Yes
+996291,Arjun Scott,House,CBD,3,2,6,4.54,19,No,2,84.0,2,9.0,Yes
+993935,Liam Smith,Studio,Inner Suburb,1,1,3,4.27,41,No,11,50.0,7,6.0,Yes
+992979,Noah Khan,House,CBD,2,2,4,4.37,34,No,3,80.0,2,7.0,Yes
+997470,Oliver Wilson,Apartment,CBD,1,1,2,4.34,3,No,1,46.0,1,4.0,Yes
+995161,An Harris,Apartment,Inner Suburb,2,2,4,3.99,13,No,3,63.0,4,4.0,No
+993670,Thomas Khan,Apartment,Inner Suburb,1,1,2,4.31,23,No,4,51.0,1,4.0,No
+994572,Thomas King,Apartment,CBD,1,1,3,4.71,47,Yes,10,55.0,1,5.0,No
+991736,Mia Ali,House,Outer Suburb,3,3,6,4.2,15,No,0,68.0,2,3.0,Yes
+993716,Ava Jones,Townhouse,Regional,2,1,5,4.83,51,Yes,15,70.0,1,6.0,No
+994878,Minh White,Studio,CBD,1,1,2,4.47,73,Yes,2,40.0,5,5.0,Yes
+993661,Minh Singh,Villa,Regional,4,3,7,4.09,77,Yes,7,68.0,2,6.0,Yes
+994594,Michael Tran,House,Inner Suburb,3,2,5,4.5,73,Yes,15,70.0,2,5.0,No
+996819,Samuel Clark,Apartment,Inner Suburb,3,2,8,4.48,69,Yes,10,76.0,2,7.0,No
+991929,Amelia Young,Apartment,Outer Suburb,2,2,4,4.18,56,No,10,56.0,4,7.0,Yes
+993164,Ava Ali,Apartment,Outer Suburb,1,2,2,4.69,41,Yes,6,36.0,3,3.0,No
+996963,Sarah Khan,Townhouse,Outer Suburb,2,2,3,4.68,6,No,2,73.0,1,6.0,No
+995722,Priya Wang,Townhouse,Inner Suburb,2,2,4,3.94,105,No,1,61.0,3,5.0,Yes
+994527,Thomas Clark,Townhouse,Inner Suburb,3,1,8,4.89,54,Yes,1,75.0,2,8.0,Yes
+991874,Aisha Walker,Apartment,Inner Suburb,1,1,2,4.52,106,Yes,14,55.0,1,6.0,No
+990452,Zoe Le,House,Regional,5,3,10,4.81,33,No,2,103.0,2,7.0,Yes
+994092,Lucas Chen,Apartment,CBD,1,1,1,,22,No,5,,1,6.0,No
+991871,Daniel Young,Apartment,Regional,2,2,6,4.62,111,Yes,8,66.0,7,6.0,No
+990034,Isla White,Apartment,Outer Suburb,3,2,5,4.26,16,No,1,74.0,2,5.0,No
+993885,Michael Patel,House,CBD,3,2,7,4.04,106,No,1,67.0,1,8.0,Yes
+995352,Aisha Martin,Townhouse,Inner Suburb,3,3,6,4.69,30,No,3,64.0,3,6.0,No
+993350,Ethan Clark,Townhouse,Inner Suburb,4,2,10,4.31,81,No,7,72.0,7,5.0,Yes
+993736,An Harris,House,Outer Suburb,4,3,10,4.66,6,No,0,99.0,1,10.0,Yes
+995675,Chloe Martin,House,Inner Suburb,4,3,7,4.35,132,Yes,14,85.0,3,6.0,Yes
+994680,James Wilson,Apartment,CBD,1,1,4,4.51,88,Yes,5,52.0,7,6.0,Yes
+995500,James Le,House,Outer Suburb,5,3,9,4.08,63,No,4,99.0,3,6.0,Yes
+996774,Amelia Jones,Studio,CBD,1,1,3,,45,No,1,39.0,3,4.0,Yes
+995494,Oliver Clark,Apartment,Inner Suburb,2,1,5,4.27,22,No,4,83.0,4,7.0,Yes
+995799,Wei Anderson,Apartment,Outer Suburb,1,1,1,4.63,24,No,4,54.0,2,6.0,Yes
+992444,Aisha Thomas,Apartment,Outer Suburb,1,2,2,4.6,110,Yes,0,55.0,1,5.0,Yes
+997129,Liam Smith,Studio,CBD,1,1,1,4.64,66,Yes,2,44.0,3,5.0,Yes
+994898,Oliver Jones,Apartment,Inner Suburb,2,2,3,4.5,45,Yes,3,79.0,1,8.0,No
+993324,David Chen,House,Inner Suburb,3,2,6,4.26,46,Yes,2,68.0,2,6.0,No
+995058,Emma Young,Studio,Inner Suburb,1,2,1,4.52,47,Yes,4,62.0,2,7.0,Yes
+990820,James Taylor,Studio,Inner Suburb,1,1,2,4.43,35,No,3,51.0,1,7.0,No
+992359,Minh Brown,Studio,Inner Suburb,1,1,2,4.38,3,No,1,46.0,3,,No
+996589,Ethan Young,House,Regional,3,3,6,4.71,52,Yes,4,84.0,2,7.0,No
+994404,Omar Patel,House,Outer Suburb,5,3,9,5.0,27,Yes,0,90.0,1,8.0,Yes
+990519,Henry Ali,House,Regional,3,3,6,4.96,64,Yes,0,78.0,1,7.0,Yes
+990340,Daniel Martin,Studio,Regional,1,2,3,4.84,84,No,2,55.0,5,5.0,No
+995098,Samuel Patel,Townhouse,Regional,3,2,8,4.83,90,No,2,82.0,7,8.0,No
+997655,Sophie Clark,Apartment,Outer Suburb,1,1,1,4.41,17,No,4,46.0,1,5.0,No
+995023,An Tran,Apartment,CBD,1,2,3,4.3,29,No,7,52.0,4,7.0,Yes
+995792,Amelia Jones,Townhouse,Regional,2,2,3,5.0,61,Yes,15,88.0,1,7.0,Yes
+992034,Omar Taylor,Villa,Outer Suburb,3,2,8,4.05,42,No,13,70.0,1,2.0,Yes
+997531,Amelia Brown,Townhouse,CBD,2,1,5,4.81,53,Yes,2,61.0,1,5.0,No
+992454,Isla Le,Apartment,Regional,1,1,1,4.66,14,No,1,38.0,2,5.0,Yes
+995432,Daniel Jones,Apartment,Outer Suburb,2,2,4,4.77,69,Yes,0,65.0,2,6.0,Yes
+995520,Priya Brown,House,CBD,3,2,7,3.94,33,No,3,93.0,1,8.0,No
+994682,David Le,Studio,Inner Suburb,1,2,2,4.91,93,Yes,9,55.0,2,6.0,Yes
+993015,Jack Khan,Studio,Outer Suburb,1,2,2,4.33,129,Yes,12,63.0,3,8.0,No
+996736,Arjun Singh,Studio,Inner Suburb,1,2,1,4.23,7,No,1,52.0,3,7.0,Yes
+996354,Lucas Lee,House,Outer Suburb,3,3,8,4.6,74,Yes,13,77.0,1,6.0,Yes
+994327,Linh Khan,Studio,Regional,1,2,2,4.35,72,No,10,45.0,3,6.0,Yes
+992365,Ben Ali,Apartment,Outer Suburb,1,1,4,3.89,1,No,0,33.0,4,7.0,Yes
+994710,Ben Brown,House,CBD,4,3,7,4.67,100,No,1,114.0,1,10.0,No
+992889,Aisha Taylor,House,Inner Suburb,2,2,4,4.61,22,No,5,51.0,2,6.0,Yes
+992762,Mia Lee,House,Inner Suburb,3,2,6,3.99,32,Yes,2,56.0,1,3.0,No
+991518,Arjun King,Townhouse,CBD,2,1,6,4.46,108,Yes,0,43.0,1,6.0,Yes
+991096,Ethan White,Apartment,CBD,2,3,5,4.56,23,Yes,4,79.0,2,6.0,Yes
+997002,Mai Scott,Townhouse,Inner Suburb,2,2,5,4.07,159,No,3,70.0,3,7.0,No
+992956,Sarah Singh,House,CBD,4,3,10,4.81,50,Yes,14,114.0,2,10.0,Yes
+996993,Aisha Patel,Studio,Inner Suburb,1,2,3,4.18,93,No,4,36.0,5,5.0,No
+994391,Mei Clark,Studio,CBD,1,1,2,4.64,194,Yes,6,66.0,10,6.0,Yes
+991016,Aisha Nguyen,Apartment,Inner Suburb,1,2,2,3.87,18,No,2,34.0,2,2.0,Yes
+993171,Noah Martin,Apartment,Regional,2,1,3,4.91,51,No,0,41.0,7,5.0,No
+994044,Minh Jones,House,Regional,2,2,3,4.43,15,No,4,57.0,1,7.0,Yes
+990520,Linh Singh,Townhouse,Outer Suburb,3,3,5,4.48,40,No,12,73.0,1,6.0,No
+996594,Michael Young,House,Outer Suburb,2,2,4,4.13,2,No,0,75.0,3,6.0,No
+995940,David Clark,House,CBD,3,2,6,4.55,110,Yes,3,77.0,2,4.0,Yes
+991623,Omar Singh,Apartment,Outer Suburb,3,3,5,4.8,44,No,2,51.0,1,5.0,No
+990785,Emily King,Apartment,Outer Suburb,1,2,4,4.47,60,No,8,49.0,3,8.0,Yes
+992439,Emma Tran,Apartment,Regional,1,1,2,4.34,87,No,1,57.0,1,6.0,No
+995943,Arjun Tran,Apartment,Inner Suburb,2,2,6,5.0,109,No,5,61.0,2,5.0,Yes
+996898,Samuel White,House,Inner Suburb,4,3,8,4.68,165,No,1,84.0,2,4.0,No
+990397,Omar Wilson,Apartment,Regional,3,2,8,4.09,70,Yes,7,60.0,7,7.0,Yes
+994224,Mei Tran,House,Inner Suburb,3,2,5,4.69,43,Yes,4,46.0,3,3.0,Yes
+993379,Grace Le,House,Inner Suburb,5,3,10,4.53,13,No,1,93.0,2,4.0,Yes
+997658,James Martin,Townhouse,CBD,3,2,7,4.69,64,Yes,6,79.0,2,7.0,Yes
+997596,David Thomas,Apartment,Outer Suburb,1,2,1,4.77,44,No,6,57.0,1,6.0,Yes
+993078,Minh Wilson,Apartment,Outer Suburb,1,1,1,4.6,24,No,1,44.0,7,4.0,No
+995350,Henry Singh,Apartment,Regional,2,2,6,4.66,58,No,7,72.0,2,7.0,Yes
+997953,Priya Le,Studio,Inner Suburb,1,2,4,4.45,122,No,4,62.0,3,5.0,Yes
+995736,Daniel Thomas,Apartment,Inner Suburb,1,1,1,4.19,37,No,15,40.0,3,5.0,Yes
+990691,Olivia Smith,Apartment,Inner Suburb,2,1,5,4.01,3,No,1,71.0,2,8.0,Yes
+997926,Olivia Nguyen,Apartment,CBD,1,1,1,4.17,2,No,1,40.0,1,3.0,Yes
+993012,Amelia Singh,Apartment,Inner Suburb,2,2,6,4.69,40,No,1,35.0,1,3.0,No
+995344,Emily Brown,Studio,Outer Suburb,1,1,2,4.08,126,No,8,49.0,1,4.0,Yes
+996087,Olivia Anderson,House,CBD,4,3,10,4.35,28,Yes,5,91.0,5,7.0,No
+993328,Emily Nguyen,Studio ,Outer Suburb,1,1,3,4.61,3,No,1,48.0,7,6.0,No
+991463,Noah White,House,Inner Suburb,2,2,3,4.35,34,No,10,60.0,4,4.0,Yes
+992593,Olivia White,Villa,CBD,4,3,8,4.57,31,No,0,88.0,1,7.0,Yes
+995284,James Martin,Studio,Outer Suburb,1,1,4,4.1,86,Yes,5,47.0,10,5.0,No
+993133,Lily Anderson,Studio,Outer Suburb,1,2,1,4.43,48,No,4,46.0,3,6.0,Yes
+995225,Arjun Singh,Studio,CBD,1,1,1,4.56,28,No,1,33.0,4,5.0,No
+993444,Henry Walker,Apartment,Inner Suburb,1,2,3,,64,No,2,,2,7.0,Yes
+993175,An Wang,Apartment,Outer Suburb,2,2,4,4.59,46,No,1,61.0,2,7.0,Yes
+991959,Arjun Le,Studio,CBD,1,2,3,4.2,8,No,2,35.0,1,3.0,Yes
+993767,Michael Anderson,Apartment,Outer Suburb,1,2,3,4.37,47,No,6,37.0,2,4.0,Yes
+997564,Noah Patel,Townhouse,Inner Suburb,3,3,8,4.38,59,No,1,98.0,3,7.0,Yes
+990573,Emma Harris,Apartment,Regional,1,1,1,4.42,16,No,4,49.0,3,7.0,No
+993355,Zoe White,House,Regional,4,2,7,4.45,101,No,6,79.0,3,4.0,No
+997639,Ava King,Apartment,Outer Suburb,2,2,4,4.81,20,No,3,59.0,1,8.0,Yes
+993204,Ava King,Apartment,CBD,2,3,6,4.33,58,No,3,59.0,1,4.0,No
+990301,James Wilson,Apartment,CBD,1,2,2,4.41,151,Yes,15,57.0,2,7.0,No
+997688,Zoe White,Townhouse,Outer Suburb,3,3,8,4.66,44,No,12,87.0,2,6.0,Yes
+991283,Henry Wilson,House,Inner Suburb,4,2,8,3.75,61,Yes,3,66.0,3,5.0,Yes
+991069,Mia Young,Townhouse,Inner Suburb,4,3,7,4.38,48,No,4,69.0,1,5.0,Yes
+993511,Hannah Walker,Apartment,Outer Suburb,1,1,4,4.42,75,Yes,7,50.0,1,5.0,Yes
+997456,Wei Anderson,Apartment,Inner Suburb,1,1,2,4.58,105,Yes,5,68.0,3,7.0,Yes
+991808,Arjun Tran,Apartment,Outer Suburb,2,2,6,4.06,2,No,1,65.0,1,7.0,Yes
+996229,Arjun King,Townhouse,Regional,4,3,7,4.12,8,No,1,102.0,1,8.0,Yes
+997265,Mai Taylor,Apartment,Regional,3,3,8,4.9,40,Yes,6,71.0,1,7.0,Yes
+997481,Noah Smith,Townhouse,Outer Suburb,2,1,4,4.72,34,No,9,59.0,1,6.0,No
+996549,Noah Nguyen,House,CBD,4,2,8,4.06,38,No,10,101.0,2,6.0,Yes
+993162,James Le,Apartment,Outer Suburb,1,2,1,4.4,13,No,5,37.0,14,,No
+996802,Lily Wilson,Apartment,Inner Suburb,2,2,6,4.42,38,No,4,64.0,3,5.0,Yes
+997878,Emma Wilson,Studio,Outer Suburb,1,2,2,4.08,56,Yes,10,40.0,2,4.0,No
+996450,Omar Singh,House,Inner Suburb,3,2,8,4.56,110,No,1,61.0,3,5.0,Yes
+997433,Ava Martin,Townhouse,Inner Suburb,2,2,3,4.39,14,No,3,53.0,1,4.0,Yes
+990874,Michael Anderson,Villa,Inner Suburb,4,3,7,4.57,45,No,2,78.0,2,7.0,Yes
+996673,Henry Le,House,Regional,4,3,8,4.5,61,Yes,4,78.0,2,6.0,Yes
+990897,Mai Walker,Apartment,CBD,2,2,4,4.1,25,No,0,47.0,3,4.0,Yes
+995534,Samuel Harris,Apartment,Outer Suburb,2,1,6,4.33,15,No,0,62.0,1,8.0,Yes
+992968,William Patel,House,Outer Suburb,4,2,8,4.44,140,No,10,90.0,2,8.0,Yes
+997731,Anna Young,Apartment,Outer Suburb,2,2,5,4.13,2,No,1,58.0,14,9.0,Yes
+992233,Sarah Brown,House,Outer Suburb,4,3,10,4.04,11,No,3,92.0,3,6.0,Yes
+994443,Grace Martin,House,Regional,2,2,4,4.73,37,Yes,7,55.0,2,4.0,No
+990357,Emily Walker,House,Outer Suburb,3,2,5,4.75,58,Yes,4,67.0,7,7.0,Yes
+996741,Priya Scott,Apartment,Regional,2,2,3,4.67,67,Yes,7,32.0,5,4.0,Yes
+991497,An Young,Apartment,Regional,1,1,2,4.33,28,No,6,41.0,2,7.0,No
+995884,Oliver Anderson,Apartment,Outer Suburb,1,2,1,4.51,65,No,4,35.0,1,4.0,Yes
+997885,Minh Jones,House,Outer Suburb,3,2,6,4.38,13,No,3,99.0,10,8.0,Yes
+997683,Aisha Lee,House,Inner Suburb,3,2,5,4.02,28,Yes,3,93.0,3,7.0,No
+992283,Daniel Scott,Townhouse,Outer Suburb,3,2,7,4.55,35,No,12,70.0,1,6.0,Yes
+997200,Liam Chen,Studio,Regional,1,1,2,4.4,28,No,6,41.0,1,3.0,No
+995574,Isla Le,House,CBD,3,2,6,4.4,111,No,0,49.0,2,7.0,Yes
+994054,Noah Khan,Town House,Inner Suburb,3,3,7,4.66,75,No,2,62.0,1,6.0,Yes
+996213,Oliver Wang,House,Regional,5,3,10,4.77,78,Yes,0,103.0,3,10.0,No
+990734,Mai Smith,Studio,Outer Suburb,1,1,3,4.19,91,Yes,4,52.0,2,6.0,No
+996417,Amelia Chen,House,Regional,3,2,6,4.62,36,No,8,60.0,4,5.0,Yes
+993388,Wei Walker,House,Regional,2,2,4,4.57,33,No,0,60.0,2,5.0,No
+993569,Jack Khan,Studio,Outer Suburb,1,2,4,4.4,46,No,3,30.0,4,1.0,Yes
+992355,Zoe Clark,Apartment,Inner Suburb,1,2,4,4.38,60,No,15,52.0,1,7.0,Yes
+995805,Omar Patel,Apartment,Outer Suburb,2,2,6,4.45,29,No,0,65.0,2,4.0,No
+991805,Noah Harris,House,Outer Suburb,3,3,6,4.1,8,No,3,81.0,1,5.0,Yes
+992754,Grace Le,House,Outer Suburb,2,2,4,4.51,28,No,14,70.0,1,7.0,Yes
+995366,Sophie King,House,Inner Suburb,5,3,10,4.53,25,No,6,98.0,4,7.0,Yes
+993067,Omar Young,House,Regional,2,1,4,4.18,49,No,2,55.0,1,4.0,Yes
+995139,Lucas Khan,Studio,Inner Suburb,1,2,2,3.83,32,No,2,64.0,1,4.0,No
+990719,Wei Chen,Apartment,Inner Suburb,1,2,4,4.23,24,No,2,77.0,1,7.0,Yes
+990145,James Nguyen,Apartment,Regional,2,3,4,4.44,67,Yes,5,71.0,2,6.0,No
+996380,Anna Tran,Apartment,Outer Suburb,3,2,8,4.79,12,No,4,86.0,2,6.0,Yes
+991279,Omar White,Villa,Outer Suburb,3,3,5,4.65,35,No,8,75.0,1,7.0,Yes
+993080,Priya Lee,Apartment,Regional,2,1,3,4.13,11,No,3,54.0,3,5.0,No
+997463,Sarah Walker,Studio,Regional,1,1,4,4.13,38,No,1,44.0,2,4.0,No
+994668,Emily White,Studio,CBD,1,1,3,4.41,43,Yes,8,53.0,1,6.0,No
+997021,Arjun Taylor,Apartment,Inner Suburb,2,2,4,4.24,12,No,2,52.0,4,5.0,Yes
+993421,Sophie Anderson,Townhouse,Regional,3,2,6,4.63,46,N,4,64.0,1,4.0,No
+990053,Grace Le,House,Inner Suburb,3,2,6,5.0,61,No,0,67.0,4,8.0,Yes
+997933,Mia Patel,Studio,Inner Suburb,1,1,2,4.59,112,Yes,5,50.0,2,7.0,No
+990584,Anna Tran,Townhouse,Regional,2,1,6,4.81,57,No,3,60.0,3,6.0,Yes
+991388,Amelia Chen,Studio,CBD,1,2,4,,63,Yes,2,,7,6.0,No
+991429,Mia Walker,Apartment,Inner Suburb,2,2,5,3.92,96,No,0,49.0,1,5.0,No
+993255,Samuel Jones,House,Regional,2,2,3,4.15,47,No,10,61.0,2,5.0,No
+994882,James Patel,Apartment,Inner Suburb,1,2,2,4.66,38,Yes,4,58.0,1,10.0,Yes
+994115,Emily Ali,Villa,Outer Suburb,2,2,4,4.02,22,Yes,1,67.0,7,4.0,Yes
+997594,Thomas Brown,House,Regional,3,2,8,3.96,26,No,1,65.0,1,6.0,No
+990180,Lucas White,Apartment,Outer Suburb,2,1,4,4.27,52,No,1,52.0,1,5.0,No
+991542,Thomas Anderson,House,Inner Suburb,2,2,4,4.76,52,No,5,49.0,1,7.0,Yes
+996192,Minh Taylor,Studio,Inner Suburb,1,1,2,4.17,56,No,0,56.0,2,5.0,Yes
+992938,Sophie Thomas,House,Inner Suburb,4,2,10,4.62,101,Yes,0,72.0,7,5.0,Yes
+993844,An Brown,House,CBD,4,3,10,4.36,66,No,3,79.0,1,7.0,Yes
+996428,Emily Taylor,House,Outer Suburb,3,3,5,4.35,65,No,7,70.0,1,6.0,Yes
+995867,Mia Taylor,House,Inner Suburb,5,3,10,4.53,72,No,3,83.0,1,5.0,Yes
+994040,Sophie Ali,Apartment,CBD,1,2,2,,105,Yes,7,,1,4.0,Yes
+993345,Jack Walker,Townhouse,CBD,2,2,4,4.84,28,No,5,56.0,2,5.0,Yes
+992669,An Jones,House,Regional,3,2,6,4.23,22,No,10,82.0,3,8.0,No
+996372,Hannah Harris,Apartment,CBD,1,1,3,3.69,12,No,4,32.0,1,3.0,Yes
+994274,Liam Nguyen,Villa,CBD,5,3,9,4.07,119,No,4,93.0,1,7.0,No
+995372,Daniel Clark,Townhouse,CBD,2,2,3,4.45,9,No,1,61.0,3,6.0,No
+992163,Liam Wilson,Apartment,CBD,3,2,7,4.33,147,Yes,0,74.0,1,6.0,Yes
+994416,Mei Scott,Apartment,Outer Suburb,2,2,5,4.3,48,Yes,5,75.0,2,6.0,Yes
+992250,Ava White,Apartment,CBD,1,1,2,4.64,42,Yes,2,67.0,1,6.0,No
+997410,Henry Khan,Studio,Inner Suburb,1,1,4,4.22,16,No,0,65.0,1,4.0,Yes
+991556,Sophie Taylor,Apartment,CBD,1,1,1,5.0,52,Yes,2,52.0,3,4.0,Yes
+996109,An Clark,Apartment,Inner Suburb,1,1,1,4.54,33,No,5,41.0,2,7.0,Yes
+997333,An Brown,Studio,CBD,1,1,2,4.26,50,No,0,40.0,1,4.0,Yes
+992015,David Harris,House,Regional,2,2,3,4.83,87,No,8,50.0,1,5.0,Yes
+994262,Ava Jones,Apartment,CBD,2,3,4,4.77,53,Yes,3,56.0,1,5.0,Yes
+997244,Thomas Smith,House,Inner Suburb,4,2,7,4.52,45,Yes,2,97.0,1,9.0,Yes
+995125,Samuel Wang,Apartment,Inner Suburb,1,1,3,4.43,25,No,0,58.0,1,5.0,Yes
+996568,William Wilson,House,CBD,4,3,7,4.38,38,No,15,87.0,1,7.0,Yes
+990833,Lucas Thomas,Apartment,Outer Suburb,1,1,2,4.37,78,No,9,45.0,2,7.0,Yes
+990029,Aisha Lee,Studio,Regional,1,2,3,4.12,42,Yes,7,76.0,2,5.0,No
+992755,Hannah Chen,House,Regional,2,2,4,4.66,50,Yes,6,61.0,1,6.0,No
+996762,Daniel Le,Studio,Inner Suburb,1,2,3,4.57,19,No,5,62.0,1,8.0,No
+991951,Arjun Lee,House,Regional,2,2,4,4.24,32,Yes,1,65.0,2,5.0,Yes
+996466,Ava Smith,Apartment,CBD,2,2,5,4.62,25,No,9,61.0,4,6.0,No
+990583,Isla Wilson,House,Outer Suburb,4,2,7,4.54,41,Yes,6,81.0,2,6.0,No
+993881,Zoe King,House,CBD,3,2,6,4.87,9,Yes,0,84.0,2,10.0,No
+994744,Linh Le,House,Inner Suburb,5,3,10,4.16,76,No,2,104.0,1,7.0,Yes
+993961,Oliver Khan,Studio,Outer Suburb,1,2,3,4.29,62,Yes,9,39.0,5,4.0,Yes
+992866,Omar Chen,House,Inner Suburb,5,3,9,4.72,28,No,2,102.0,3,8.0,Yes
+990828,Ethan Jones,Studio,Outer Suburb,1,1,2,4.21,28,No,3,51.0,4,4.0,Yes
+996687,Emily Scott,Villa,Inner Suburb,5,4,10,4.52,95,No,0,92.0,1,8.0,Yes
+990161,David Nguyen,Studio,Inner Suburb,1,1,3,4.18,60,No,2,57.0,1,6.0,Yes
+990508,Henry Ali,Studio,Outer Suburb,1,1,2,4.42,35,Yes,2,50.0,1,5.0,No
+995582,Mei Wilson,Apartment,Inner Suburb,1,2,4,4.33,93,Yes,7,55.0,1,4.0,Yes
+991326,Emily Young,Townhouse,Inner Suburb,2,2,3,4.51,2,No,0,55.0,2,6.0,No
+995193,Sarah Jones,Apartment,Outer Suburb,1,2,2,4.41,33,No,3,58.0,1,4.0,No
+995158,Daniel White,Apartment,Outer Suburb,3,3,5,4.25,60,No,1,86.0,3,6.0,Yes
+990294,Oliver Martin,Apartment,Outer Suburb,1,2,2,4.45,27,No,1,53.0,10,6.0,Yes
+994883,Jack King,House,Inner Suburb,3,2,7,4.24,98,No,1,67.0,1,4.0,Yes
+994472,Ben Thomas,Apartment,CBD,1,1,2,4.49,59,Yes,5,57.0,2,5.0,Yes
+991072,William King,House,Outer Suburb,3,2,5,4.74,35,Yes,7,83.0,2,8.0,No
+991838,Emma Martin,House,Outer Suburb,4,2,8,4.7,90,Yes,4,95.0,1,8.0,Yes
+994294,Henry Tran,Studio,Regional,1,2,2,4.51,109,Yes,7,36.0,3,4.0,No
+997741,Jack Young,Townhouse,Outer Suburb,4,2,7,4.08,153,Yes,2,70.0,2,6.0,Yes
+990805,Omar Khan,Apartment,Inner Suburb,1,2,4,4.54,91,Yes,4,78.0,1,6.0,No
+995892,Noah Tran,Townhouse,Inner Suburb,3,3,7,4.6,16,No,12,82.0,2,7.0,No
+996208,William Wilson,Apartment,Inner Suburb,1,1,1,4.35,16,No,6,39.0,1,6.0,No
+997551,An Lee,Studio,Inner Suburb,1,2,3,4.19,44,No,1,57.0,1,6.0,Yes
+992699,Omar Singh,Villa,Outer Suburb,3,2,8,4.53,10,No,4,84.0,1,7.0,Yes
+993238,James Martin,Townhouse,CBD,4,3,9,4.47,68,Yes,3,80.0,2,3.0,Yes
+991772,Mei Chen,Studio,Regional,1,1,1,4.23,18,Yes,1,49.0,4,7.0,Yes
+994765,Jack Martin,House,CBD,2,1,3,4.45,89,Yes,3,75.0,1,5.0,No
+994863,Sarah Nguyen,Apartment,Regional,1,2,2,4.02,13,No,5,59.0,1,6.0,Yes
+992279,Sarah Wilson,Apartment,Outer Suburb,1,2,2,4.95,143,Yes,6,34.0,1,5.0,Yes
+993244,Amelia Smith,Studio,CBD,1,1,2,4.6,22,No,3,49.0,2,7.0,Yes
+997966,Oliver Brown,Apartment,CBD,3,3,5,4.53,143,Yes,4,67.0,5,6.0,Yes
+991979,Michael Jones,Townhouse,CBD,2,1,3,4.78,133,No,8,54.0,1,5.0,No
+990184,Michael Walker,Apartment,Regional,1,1,3,4.54,32,No,11,36.0,1,4.0,Yes
+992602,David Anderson,House,Inner Suburb,5,3,10,4.66,75,No,2,99.0,1,6.0,No
+996343,Samuel Chen,House,Outer Suburb,3,2,6,4.44,13,N,1,52.0,2,8.0,Yes
+995918,Wei Khan,House,Inner Suburb,2,2,6,4.78,70,Yes,1,56.0,2,7.0,No
+991727,Emily Wilson,House,Regional,4,3,9,4.26,34,No,5,89.0,2,5.0,No
+993678,Minh Walker,Studio,Inner Suburb,1,1,4,5.0,34,Yes,4,53.0,3,6.0,Yes
+990621,Ethan Lee,House,Regional,2,1,4,4.75,22,No,3,63.0,5,6.0,Yes
+992803,Daniel Young,House,Outer Suburb,4,2,10,4.31,80,Yes,1,77.0,3,7.0,No
+996764,James Lee,Apartment,Inner Suburb,1,2,2,4.5,33,Yes,4,55.0,1,5.0,Yes
+990077,Henry Brown,House,Inner Suburb,3,2,7,4.65,51,Yes,9,66.0,1,5.0,Yes
+991031,Grace Jones,Apartment,Inner Suburb,2,2,4,4.55,73,No,5,56.0,7,7.0,No
+991431,Thomas Patel,Apartment,CBD,2,2,5,4.16,19,No,0,68.0,1,7.0,Yes
+996885,William Harris,Apartment,CBD,3,2,6,4.47,43,Yes,7,99.0,2,10.0,Yes
+992221,Amelia Brown,Studio,Outer Suburb,1,1,2,4.99,83,Yes,5,54.0,3,5.0,Yes
+997852,Liam Wilson,House,CBD,4,2,8,4.4,55,Yes,1,86.0,4,4.0,Yes
+991155,Ben Patel,Apartment,Inner Suburb,1,2,2,4.4,58,No,13,61.0,7,4.0,Yes
+994168,Omar King,Villa,Inner Suburb,4,3,9,4.45,49,No,9,105.0,3,9.0,No
+991314,Emily Patel,Apartment,Outer Suburb,1,2,2,4.38,16,No,7,56.0,1,6.0,No
+990561,Priya Scott,Townhouse,Outer Suburb,3,3,5,4.38,38,No,6,76.0,1,5.0,Yes
+990634,Minh Chen,Studio,Regional,1,2,4,4.99,19,Yes,3,56.0,3,5.0,Yes
+991635,William Anderson,House,Inner Suburb,4,3,8,4.67,81,No,6,71.0,2,6.0,Yes
+996597,Chloe Singh,House,Outer Suburb,5,4,10,4.27,53,Yes,1,110.0,10,7.0,Yes
+993593,Zoe Brown,House,Outer Suburb,4,3,10,4.66,16,No,1,96.0,1,9.0,Yes
+997872,Liam Jones,Studio,Inner Suburb,1,1,3,4.69,74,Yes,2,40.0,1,3.0,Yes
+990524,Wei Lee,House,Regional,3,2,8,4.39,9,No,1,73.0,1,7.0,No
+991935,Ethan Smith,House,Outer Suburb,3,3,6,4.49,40,Yes,5,91.0,2,8.0,No
+996391,Olivia Khan,Apartment,Inner Suburb,1,2,2,,97,Yes,9,51.0,2,5.0,Yes
+996002,Jack Singh,House,Outer Suburb,2,1,3,4.47,198,Yes,7,52.0,3,3.0,No
+994919,Grace King,House,Outer Suburb,2,3,4,4.29,16,No,4,46.0,3,3.0,No
+995047,Arjun Brown,Townhouse,CBD,3,2,6,4.45,65,No,3,98.0,2,8.0,No
+994414,William Scott,Apartment,Outer Suburb,2,2,6,4.1,61,No,5,71.0,2,6.0,No
+990215,Henry Martin,Apartment,Outer Suburb,1,2,2,4.61,18,No,3,53.0,2,3.0,Yes
+995385,Thomas Singh,Apartment,Inner Suburb,3,3,8,4.61,58,No,9,74.0,2,7.0,Yes
+992349,Hannah Singh,Townhouse,Inner Suburb,2,2,4,,77,No,0,58.0,2,7.0,Yes
+997249,Mia Ali,Townhouse,Inner Suburb,3,2,6,5.0,67,Yes,4,69.0,1,7.0,No
+997356,Emma Martin,House,Inner Suburb,3,1,6,4.39,25,No,4,71.0,2,6.0,No
+994460,Aisha Jones,Apartment,Inner Suburb,1,1,4,4.29,63,Yes,10,40.0,3,3.0,No
+990669,Oliver Anderson,Apartment,Regional,3,2,6,4.48,41,No,7,69.0,1,4.0,No
+991733,Amelia Young,Apartment,Inner Suburb,1,2,4,4.38,5,No,2,62.0,2,6.0,No
+996065,Arjun Nguyen,Apartment,Outer Suburb,2,2,6,4.8,7,No,2,59.0,3,4.0,Yes
+990964,Liam Wang,House,Outer Suburb,2,2,6,4.56,57,Yes,8,51.0,3,9.0,Yes
+993638,David Tran,Apartment,CBD,1,2,1,4.62,37,Yes,6,66.0,5,5.0,No
+994041,Wei Harris,Studio,CBD,1,1,3,4.72,8,No,5,60.0,1,7.0,Yes
+995346,James Patel,Studio,Regional,1,1,4,4.51,137,Yes,1,34.0,1,5.0,Yes
+997293,Isla Smith,Townhouse,Inner Suburb,2,2,4,4.62,24,No,2,89.0,1,5.0,No
+990132,Daniel Nguyen,Townhouse,CBD,3,1,8,4.32,50,Yes,1,81.0,1,5.0,Yes
+992390,Sarah Scott,Apartment,Regional,1,1,2,4.11,136,No,7,48.0,5,4.0,Yes
+991272,Mei Anderson,House,Inner Suburb,3,2,6,4.43,34,No,5,69.0,5,6.0,Yes
+992921,Aisha Nguyen,House,Regional,3,2,7,4.07,55,No,4,58.0,5,4.0,Yes
+996777,An Le,Apartment,Outer Suburb,1,2,1,4.54,19,No,0,51.0,1,2.0,No
+997342,Henry Khan,Villa,CBD,5,3,10,4.41,89,Yes,7,115.0,3,8.0,Yes
+997725,Daniel Tran,House,Inner Suburb,4,3,7,4.54,9,No,0,83.0,3,9.0,Yes
+992690,Liam Brown,Villa,Inner Suburb,5,4,10,4.45,18,No,0,122.0,1,6.0,Yes
+994099,Mia Wilson,Apartment,Regional,2,2,3,4.16,26,Yes,4,68.0,3,4.0,Yes
+993832,Linh Taylor,Villa,Regional,4,3,8,4.71,14,No,0,78.0,5,8.0,No
+997260,Emma Clark,Apartment,Inner Suburb,1,2,2,4.08,105,No,0,27.0,1,4.0,Yes
+997881,Amelia Young,Studio,Inner Suburb,1,1,4,4.43,40,Yes,2,50.0,2,6.0,No
+995053,Samuel Ali,Apartment,Outer Suburb,2,2,4,4.51,67,Yes,1,52.0,2,4.0,Yes
+990360,Chloe Martin,Apartment,Outer Suburb,1,2,2,4.32,16,No,1,53.0,1,5.0,No
+993217,An Smith,Apartment,Outer Suburb,2,2,5,4.2,51,No,13,82.0,7,6.0,No
+991399,William Smith,Apartment,Outer Suburb,3,2,8,5.0,44,Yes,2,78.0,2,6.0,No
+991904,Jack Wilson,Townhouse,Regional,2,1,4,4.19,79,Yes,12,61.0,2,5.0,No
+997138,Minh Chen,Apartment,Regional,1,1,1,4.66,127,Yes,1,52.0,1,6.0,Yes
+990511,William Tran,Studio,Inner Suburb,1,1,3,4.64,3,No,1,41.0,2,4.0,No
+991166,Henry Lee,Apartment,Regional,1,1,1,4.28,23,No,6,49.0,1,3.0,Yes
+992240,Chloe Young,House,Outer Suburb,2,2,5,4.62,74,No,1,74.0,7,7.0,No
+992619,James Smith,House,Inner Suburb,2,2,4,4.49,48,No,9,58.0,3,7.0,Yes
+997936,Liam Ali,Townhouse,CBD,2,2,4,4.16,57,No,4,65.0,7,5.0,No
+990827,Zoe Patel,Apartment,CBD,1,1,1,4.29,10,No,0,34.0,1,5.0,Yes
+992601,Ava Le,Apartment,Inner Suburb,3,2,6,4.35,46,Yes,5,71.0,2,5.0,No
+996061,Noah Young,Apartment,Outer Suburb,1,2,2,4.38,26,Yes,2,40.0,2,5.0,Yes
+992091,Lucas Nguyen,Apartment,Regional,2,1,4,4.27,12,No,4,53.0,5,5.0,No
+997993,Henry Nguyen,Villa,CBD,5,3,10,4.32,37,Yes,2,104.0,1,7.0,No
+993940,Omar Ali,Studio,Regional,1,2,2,4.16,3,No,1,43.0,3,2.0,No
+996821,Jack Jones,House,Inner Suburb,4,2,10,4.02,54,Yes,1,111.0,1,8.0,Yes
+997783,Lucas Jones,Studio,Outer Suburb,1,2,1,4.09,1,No,0,57.0,1,6.0,No
+997507,Jack Lee,Studio,CBD,1,1,2,4.42,10,No,0,53.0,2,4.0,No
+997382,Oliver Singh,Villa,Inner Suburb,4,3,8,4.28,46,Yes,4,66.0,1,6.0,Yes
+996324,Michael Khan,Apartment,Outer Suburb,2,2,4,4.19,22,No,2,86.0,1,6.0,Yes
+996526,Thomas Singh,Apartment,Outer Suburb,1,1,1,,89,Yes,2,,2,6.0,Yes
+993357,Mia Patel,Townhouse,Inner Suburb,3,3,5,4.53,55,No,0,77.0,7,8.0,No
+992676,David Lee,Apartment,Outer Suburb,1,1,2,,131,No,9,49.0,7,5.0,No
+990671,Wei Clark,Studio,Outer Suburb,1,1,1,4.25,4,No,1,34.0,1,4.0,No
+992677,Priya Nguyen,House,CBD,4,3,9,4.7,7,No,2,92.0,3,8.0,No
+997067,Liam Patel,House,Regional,4,2,8,4.33,63,No,7,91.0,3,7.0,Yes
+992011,Lucas Ali,Apartment,Inner Suburb,1,2,1,4.45,90,Yes,0,53.0,2,3.0,No
+993812,An Thomas,Studio,CBD,1,2,1,3.82,59,Yes,12,46.0,1,3.0,Yes
+995699,Emily Le,Apartment,Regional,1,2,2,4.18,16,No,2,66.0,1,6.0,Yes
+994154,Liam Taylor,House,CBD,3,3,5,4.47,51,No,2,64.0,2,5.0,Yes
+995531,William Ali,Apartment,Outer Suburb,1,2,2,4.46,40,Yes,8,51.0,2,3.0,No
+995508,Mei Singh,Apartment,Regional,2,2,3,4.86,46,Yes,3,66.0,1,6.0,Yes
+992898,Liam Young,Studio,Inner Suburb,1,2,3,3.9,47,Yes,7,54.0,10,4.0,Yes
+993877,Wei Patel,House,Inner Suburb,4,3,8,4.28,22,Yes,1,75.0,2,6.0,Yes
+995120,Emma Wang,Townhouse,Inner Suburb,3,3,6,4.45,48,Yes,2,76.0,2,6.0,No
+997538,Emma Tran,House,Inner Suburb,3,3,7,4.62,154,No,0,89.0,3,10.0,Yes
+992733,Priya Tran,House,Outer Suburb,4,2,10,4.79,35,No,1,75.0,1,5.0,Yes
+997521,Jack Brown,Apartment,Outer Suburb,2,3,4,5.0,63,Yes,7,79.0,1,5.0,Yes
+997747,Lucas Anderson,Apartment,Inner Suburb,2,1,3,4.49,70,No,2,61.0,5,4.0,No
+994935,Aisha Thomas,House,Outer Suburb,4,1,9,4.26,11,No,5,82.0,2,8.0,Yes
+991374,Isla Smith,Villa,Outer Suburb,4,3,8,4.59,11,No,2,91.0,5,9.0,Yes
+995871,Daniel Singh,Townhouse,CBD,2,2,5,4.68,36,No,6,70.0,3,5.0,Yes
+996803,Aisha Harris,House,Inner Suburb,5,2,10,4.18,66,No,2,87.0,1,7.0,No
+990455,Grace Khan,House,Inner Suburb,3,3,5,4.17,21,No,0,73.0,1,8.0,Yes
+995116,Ava Wilson,House,Outer Suburb,3,2,6,4.7,39,Yes,5,73.0,4,4.0,No
+992005,Linh King,Apartment,CBD,3,2,6,4.23,16,No,1,88.0,2,7.0,Yes
+995015,Samuel Wang,Townhouse,Regional,2,2,4,4.47,45,No,2,68.0,1,5.0,Yes
+990618,Sarah Lee,Studio,Outer Suburb,1,2,2,4.57,46,Yes,5,56.0,1,4.0,Yes
+994232,Liam Chen,Studio,Regional,1,1,2,4.52,29,No,2,33.0,1,2.0,Yes
+990543,Mei Khan,Townhouse,Inner Suburb,2,2,4,4.18,22,No,1,64.0,1,4.0,No
+992319,Noah Harris,Apartment,Regional,1,1,3,3.87,88,No,12,46.0,4,2.0,Yes
+993717,Emma Wilson,Studio,Regional,1,2,1,4.29,39,Yes,2,64.0,5,6.0,No
+991667,Ben Chen,House,Inner Suburb,3,2,5,4.5,15,No,3,86.0,14,7.0,No
+997093,David Lee,Townhouse,Inner Suburb,4,3,7,4.4,83,No,1,74.0,3,6.0,Yes
+993983,Jack Young,Townhouse,Outer Suburb,3,1,6,4.26,20,Yes,0,75.0,1,6.0,Yes
+991744,William Lee,Studio,CBD,1,1,3,4.59,74,No,5,57.0,2,5.0,No
+997537,James Wilson,Apartment,Inner Suburb,1,1,4,4.68,120,No,2,54.0,7,,Yes
+993165,Emma Patel,Apartment,CBD,1,1,2,4.2,17,No,1,58.0,1,7.0,Yes
+991222,David Wilson,Apartment,Outer Suburb,1,2,4,4.23,20,No,9,57.0,2,4.0,Yes
+995744,Ava Tran,Apartment,Regional,3,2,7,4.17,61,No,11,73.0,1,4.0,Yes
+995591,Mia Scott,Apartment,CBD,1,1,2,4.54,160,Yes,2,55.0,1,6.0,No
+990242,Liam Wilson,Apartment,Inner Suburb,1,1,2,,51,Yes,9,,1,3.0,Yes
+992554,Sophie Scott,Townhouse,Regional,3,3,5,5.0,71,Yes,3,76.0,2,8.0,No
+990900,Ava Martin,Apartment,Inner Suburb,2,1,6,4.84,94,Yes,5,73.0,2,8.0,Yes
+990581,James Clark,House,Inner Suburb,3,3,5,4.82,64,Yes,7,71.0,1,6.0,No
+997813,Priya Taylor,Townhouse,Outer Suburb,3,3,6,4.25,24,No,1,78.0,2,10.0,Yes
+994438,Wei Khan,Apartment,CBD,2,3,6,4.31,19,No,1,59.0,3,5.0,Yes
+994955,Michael Brown,Townhouse,Outer Suburb,2,1,5,3.95,51,No,3,51.0,1,5.0,Yes
+997197,Isla King,Studio,Outer Suburb,1,2,2,4.13,45,No,5,56.0,1,5.0,No
+994286,Emily Chen,Studio,Inner Suburb,1,1,1,4.35,42,Yes,0,45.0,1,5.0,No
+991179,Noah Nguyen,Apartment,Outer Suburb,2,1,4,,46,Yes,3,,1,5.0,Yes
+994335,Mei Thomas,Apartment,Inner Suburb,1,1,3,4.75,6,No,2,40.0,2,5.0,No
+996786,Aisha Anderson,Villa,CBD,2,1,4,4.3,49,No,6,61.0,5,7.0,Yes
+990437,Samuel Tran,Apartment,Regional,2,2,3,4.25,23,No,6,45.0,3,4.0,No
+996051,William Martin,Townhouse,Regional,2,2,6,4.41,14,Yes,2,69.0,2,,Yes
+990118,Jack Young,Apartment,Regional,1,2,1,5.0,57,No,4,28.0,2,5.0,Yes
+994407,Olivia Thomas,Townhouse,Inner Suburb,2,3,4,4.6,44,No,7,70.0,2,7.0,No
+991766,Linh Taylor,House,Inner Suburb,3,2,6,4.3,67,No,15,58.0,1,4.0,No
+993347,Priya Thomas,Apartment,Inner Suburb,2,2,4,4.6,51,Yes,6,73.0,4,7.0,Yes
+997349,Sophie Le,House,Inner Suburb,4,3,8,4.94,59,Yes,9,97.0,1,8.0,No
+991526,Wei Anderson,Townhouse,Inner Suburb,2,2,3,,14,No,3,,2,7.0,Yes
+992325,Grace Khan,House,Regional,4,2,7,4.3,19,Yes,2,70.0,1,6.0,Yes
+995449,Wei Walker,Villa,Outer Suburb,2,2,3,4.66,73,No,1,68.0,3,6.0,No
+995553,James Lee,Apartment,Inner Suburb,2,2,6,4.4,57,Yes,12,58.0,3,5.0,Yes
+997159,Isla Patel,Studio,CBD,1,2,2,4.28,39,Yes,8,55.0,1,,Yes
+993221,David Khan,Apartment,Inner Suburb,2,1,3,4.1,38,Yes,6,51.0,3,5.0,Yes
+992169,Emma Singh,Apartment,CBD,1,2,1,4.51,17,No,2,61.0,1,6.0,No
+991952,Sophie Thomas,Villa,Outer Suburb,4,2,7,4.86,8,No,4,70.0,2,8.0,Yes
+991971,Minh Thomas,House,Regional,4,2,8,4.25,12,No,2,80.0,1,8.0,Yes
+990985,Wei Le,House,Inner Suburb,4,2,9,4.65,31,Yes,3,84.0,2,7.0,Yes
+990652,An Brown,Apartment,Regional,2,3,5,4.62,30,Yes,0,67.0,1,8.0,Yes
+992046,Chloe Tran,House,Outer Suburb,3,2,8,4.71,47,No,4,96.0,5,9.0,No
+994343,William Le,Townhouse,CBD,3,2,6,4.5,29,Yes,2,74.0,3,7.0,Yes
+992818,William Lee,Apartment,Regional,2,2,4,4.62,14,No,4,48.0,3,6.0,No
+992908,Thomas King,Studio,Inner Suburb,1,1,2,5.0,10,No,3,46.0,2,6.0,Yes
+990377,Oliver Brown,Villa,Inner Suburb,5,4,10,5.0,86,Yes,7,103.0,7,7.0,Yes
+994191,Ben Martin,Apartment,Inner Suburb,1,1,1,4.18,105,Yes,8,46.0,1,4.0,No
+993307,Mai Harris,Apartment,Inner Suburb,1,1,3,4.76,20,Yes,1,40.0,1,4.0,Yes
+995648,Liam Brown,Apartment,CBD,1,2,1,4.69,33,No,1,62.0,3,7.0,Yes
+996435,Samuel Walker,House,Inner Suburb,4,2,9,4.2,77,Yes,2,76.0,1,6.0,Yes
+993879,Arjun Nguyen,Townhouse,Inner Suburb,3,2,8,4.63,26,Yes,0,69.0,2,5.0,No
+994398,Priya Ali,Townhouse,Outer Suburb,2,2,5,4.77,128,Yes,8,62.0,3,7.0,No
+997798,Daniel Taylor,Apartment,Inner Suburb,2,3,4,4.81,153,No,3,74.0,2,5.0,Yes
+993247,Olivia King,House,CBD,4,2,10,4.64,51,No,3,85.0,3,7.0,Yes
+991395,Minh White,Apartment,Inner Suburb,1,2,2,4.64,77,Yes,15,44.0,3,4.0,No
+991877,Arjun Le,Apartment,Inner Suburb,1,1,4,4.42,52,Yes,0,31.0,1,5.0,Yes
+992568,Oliver Tran,House,Regional,4,2,9,4.87,7,No,3,75.0,3,7.0,Yes
+997675,Mia Patel,Apartment,Inner Suburb,1,1,4,4.39,8,No,1,40.0,4,6.0,No
+991035,Mai Patel,Apartment,Inner Suburb,3,2,6,4.32,47,Yes,9,79.0,1,7.0,Yes
+990984,Chloe Wang,Apartment,CBD,2,2,3,4.53,33,No,0,66.0,1,7.0,No
+994142,Emma Wang,Studio ,CBD,1,1,1,4.42,93,Yes,5,62.0,1,7.0,Yes
+994216,Arjun Smith,House,Regional,3,2,5,4.46,82,No,1,63.0,3,5.0,Yes
+991567,Daniel Walker,House,CBD,3,2,7,4.66,18,No,1,83.0,1,10.0,Yes
+994210,William Smith,House,Inner Suburb,3,2,7,4.61,90,No,7,64.0,2,5.0,Yes
+992312,Priya Jones,Townhouse,Outer Suburb,3,2,6,5.0,54,No,1,89.0,1,6.0,Yes
+990001,Lily Ali,Apartment,Outer Suburb,1,2,2,4.63,57,No,1,35.0,1,7.0,No
+992375,Lucas Lee,apartment,Outer Suburb,2,2,3,4.6,21,No,6,65.0,1,8.0,No
+995181,Lily Martin,House,Outer Suburb,3,3,8,4.4,68,No,14,76.0,1,6.0,No
+996710,Olivia Khan,Studio,Outer Suburb,1,1,4,4.76,201,Yes,0,52.0,1,5.0,Yes
+990980,David Brown,House,CBD,3,2,8,4.43,61,No,8,83.0,3,7.0,No
+991885,David Thomas,Townhouse,Inner Suburb,2,1,4,,74,No,4,57.0,3,8.0,Yes
+990451,Anna Tran,House,Inner Suburb,4,3,9,3.83,96,No,10,83.0,1,9.0,Yes
+991761,Emma Clark,Apartment,CBD,2,2,4,4.78,25,No,1,61.0,3,7.0,No
+991377,Jack Walker,House,Regional,3,2,6,4.28,94,Yes,10,63.0,4,5.0,No
+992070,Hannah Clark,Apartment,Inner Suburb,2,2,5,4.4,49,No,7,64.0,4,5.0,Yes
+997642,Ben Nguyen,Studio,Inner Suburb,1,1,4,3.82,24,No,5,53.0,2,4.0,Yes
+991039,Sophie Anderson,House,Outer Suburb,2,2,4,4.17,85,No,5,65.0,3,6.0,Yes
+990551,David Brown,Apartment,Outer Suburb,1,1,2,4.44,119,No,0,51.0,1,4.0,Yes
+992951,Anna Jones,Studio,Outer Suburb,1,1,4,,4,No,3,35.0,3,4.0,No
+990237,Sophie Tran,House,Inner Suburb,3,1,7,4.52,77,Yes,6,85.0,7,5.0,No
+992184,Aisha Wang,Apartment,Outer Suburb,1,1,3,3.97,32,No,0,35.0,3,4.0,Yes
+991719,Oliver Khan,House,Outer Suburb,2,1,4,4.24,76,No,3,58.0,1,3.0,No
+995283,Arjun Wilson,House,Outer Suburb,5,2,10,4.58,7,No,4,94.0,1,8.0,No
+995584,Jack Harris,Apartment,Regional,2,2,5,4.65,5,No,0,47.0,7,5.0,Yes
+992786,Isla Taylor,Apartment,Outer Suburb,1,2,1,4.67,48,Yes,3,56.0,2,5.0,No
+991131,Priya White,House,Inner Suburb,2,1,4,5.0,8,No,0,71.0,2,7.0,No
+990080,Samuel White,Apartment,Regional,3,3,6,4.59,42,No,3,71.0,1,8.0,No
+991705,Aisha Le,Townhouse,Inner Suburb,2,2,6,4.25,21,No,2,79.0,2,7.0,Yes
+990882,Arjun White,Apartment,Regional,3,2,6,3.95,79,No,8,66.0,4,7.0,Yes
+997790,Aisha Chen,Apartment,Regional,2,2,5,4.43,19,No,0,48.0,2,6.0,Yes
+992435,Minh King,House,Outer Suburb,5,3,10,4.48,36,No,1,82.0,2,5.0,Yes
+990196,Olivia Singh,House,Inner Suburb,4,3,7,4.79,56,Yes,11,83.0,4,6.0,Yes
+997033,Emma Harris,Apartment,Inner Suburb,1,1,3,4.34,53,Yes,5,58.0,1,6.0,Yes
+993993,Linh Smith,Apartment,Outer Suburb,1,1,4,4.51,27,No,5,24.0,3,2.0,Yes
+996043,Mei Wang,Apartment,Outer Suburb,1,2,2,3.96,18,No,4,48.0,2,5.0,No
+991181,Oliver Wang,Apartment,Outer Suburb,2,1,6,4.2,51,No,3,60.0,2,7.0,No
+992997,Olivia Wang,Apartment,CBD,2,2,3,4.78,81,Yes,15,68.0,5,5.0,Yes
+991837,Olivia Thomas,Apartment,CBD,1,2,3,3.93,27,No,3,53.0,2,1.0,Yes
+994787,Sarah Harris,Apartment,Inner Suburb,1,1,2,4.45,55,No,1,42.0,1,5.0,Yes
+995186,Sophie Clark,Apartment,CBD,3,3,8,4.64,115,Yes,7,81.0,2,6.0,No
+992506,Sophie Scott,House,CBD,3,2,8,4.52,53,Yes,0,63.0,1,5.0,Yes
+997771,An Wang,House,Regional,3,2,8,4.33,37,No,1,73.0,2,4.0,No
+990949,Mei White,Apartment,Outer Suburb,1,1,3,4.17,111,No,12,60.0,1,5.0,No
+990223,Mia White,Apartment,CBD,2,2,4,4.51,16,No,0,76.0,10,7.0,No
+997027,Emily White,Studio,Regional,1,1,3,4.28,121,Yes,1,73.0,1,6.0,No
+995689,Ethan King,Apartment,Inner Suburb,1,1,3,4.65,71,No,7,53.0,4,5.0,Yes
+992628,Hannah Jones,House,Inner Suburb,5,3,10,,14,No,3,,2,8.0,Yes
+991193,Priya Nguyen,Studio,CBD,1,2,1,4.45,3,No,0,35.0,3,5.0,No
+992105,Hannah Anderson,House,Regional,4,2,10,4.5,33,No,3,48.0,1,4.0,No
+992156,Chloe Clark,Apartment,CBD,3,2,7,4.58,92,Yes,3,61.0,2,2.0,No
+994996,Emily Martin,House,Outer Suburb,4,3,8,4.5,95,No,1,70.0,1,4.0,No
+996583,Mai Jones,Apartment,Inner Suburb,1,1,4,4.0,32,Yes,0,42.0,2,5.0,No
+990784,Ethan Young,Apartment,Inner Suburb,1,1,3,4.16,90,Yes,0,31.0,2,5.0,Yes
+997379,Linh Singh,Studio,Inner Suburb,1,1,1,4.28,139,No,1,42.0,1,6.0,Yes
+994226,Arjun Wang,Apartment,Outer Suburb,1,1,2,4.22,108,No,15,36.0,5,,Yes
+991470,Lucas White,House,Inner Suburb,3,2,8,4.55,70,No,13,72.0,2,8.0,No
+996630,Mei Anderson,Studio,CBD,1,1,4,4.65,43,No,0,37.0,3,5.0,Yes
+995649,Sarah Clark,Apartment,Outer Suburb,3,2,8,4.33,5,No,2,88.0,1,7.0,No
+994590,Samuel Jones,Villa,Regional,2,2,6,4.59,11,No,2,55.0,2,6.0,Yes
+992643,Isla Smith,Apartment,Regional,1,2,4,4.17,29,No,10,59.0,3,6.0,No
+995917,Michael Singh,Apartment,Outer Suburb,1,2,3,4.26,4,No,1,45.0,1,3.0,No
+990364,Noah Brown,Villa,Inner Suburb,4,3,10,4.41,28,No,0,83.0,2,7.0,Yes
+995754,Mei Harris,Apartment,Outer Suburb,2,2,6,4.23,43,No,2,74.0,4,5.0,Yes
+993968,Mei Thomas,Studio,Inner Suburb,1,2,1,4.51,41,Yes,1,51.0,1,8.0,Yes
+994315,Zoe Wilson,Apartment,Regional,2,1,4,4.16,57,Yes,10,51.0,2,4.0,Yes
+996134,Mia Smith,Studio,Regional,1,2,3,4.03,2,No,1,53.0,2,4.0,Yes
+997975,Samuel Le,House,Inner Suburb,4,2,8,4.07,18,No,5,92.0,1,8.0,No
+992935,Mai Taylor,House,Regional,3,2,5,4.25,47,No,8,88.0,1,7.0,Yes
+996262,Michael Thomas,Apartment,CBD,1,1,2,3.96,74,Yes,5,54.0,14,5.0,Yes
+994889,Linh Patel,House,Outer Suburb,3,2,7,4.8,40,No,1,91.0,1,10.0,Yes
+994067,Lily White,Villa,Outer Suburb,3,2,5,4.6,72,Yes,3,77.0,2,7.0,No
+997427,Minh King,Apartment,Regional,1,2,2,4.46,90,Yes,2,66.0,1,8.0,No
+997286,Hannah Wang,Apartment,Inner Suburb,1,2,1,4.67,33,No,2,59.0,3,6.0,No
+995971,Wei Brown,Studio,Inner Suburb,1,1,3,4.55,129,Yes,15,37.0,1,5.0,Yes
+993837,Lucas Chen,Apartment,Regional,2,2,4,4.67,19,No,2,79.0,2,6.0,Yes
+995020,Grace Martin,Apartment,Inner Suburb,2,2,6,4.5,109,Yes,15,59.0,2,3.0,No
+997989,Grace Tran,Apartment,Inner Suburb,2,2,4,4.93,71,No,0,60.0,1,6.0,Yes
+997063,Olivia Anderson,Apartment,Inner Suburb,2,2,6,4.89,73,No,1,36.0,2,3.0,No
+996345,Mei Wilson,Apartment,Inner Suburb,1,1,1,4.83,27,No,6,26.0,1,5.0,Yes
+990162,Ava Lee,House,CBD,3,3,5,4.24,29,No,6,86.0,4,6.0,No
+990170,Jack Young,Townhouse,Outer Suburb,2,2,4,4.87,118,Yes,9,55.0,10,7.0,Yes
+992543,Chloe Patel,Townhouse,CBD,2,1,4,4.58,42,Yes,11,52.0,1,5.0,Yes
+991507,David Patel,Apartment,Regional,1,1,3,4.06,27,No,0,46.0,1,6.0,No
+995847,Liam Clark,Apartment,Inner Suburb,1,2,1,,16,No,1,54.0,4,5.0,No
+992888,Jack Wang,Studio,Regional,1,1,2,4.52,23,No,8,32.0,2,5.0,No
+992729,Samuel Wang,Studio,Inner Suburb,1,2,4,4.06,31,No,6,47.0,1,4.0,Yes
+997196,Ava Wilson,Townhouse,CBD,3,3,5,4.73,112,Yes,1,83.0,5,6.0,No
+992076,Henry Singh,Apartment,Inner Suburb,1,1,2,4.49,190,Yes,2,49.0,1,7.0,Yes
+991254,Oliver Wilson,Studio,Regional,1,2,1,3.98,109,No,5,50.0,3,5.0,No
+992208,Minh Scott,Apartment,CBD,3,2,7,4.36,80,No,1,60.0,1,6.0,No
+994159,Wei Wang,House,Inner Suburb,3,2,6,4.47,56,No,0,68.0,1,4.0,No
+995402,Samuel Anderson,Apartment,CBD,3,2,5,4.41,43,No,3,67.0,5,3.0,Yes
+996909,Ben Lee,House,Regional,4,3,9,4.43,37,Yes,0,74.0,1,5.0,Yes
+990344,Thomas Jones,Apartment,Regional,1,1,2,4.37,10,No,2,53.0,1,5.0,Yes
+994941,Isla Scott,Apartment,Inner Suburb,2,2,4,4.47,225,Yes,12,64.0,1,5.0,Yes
+991636,William Le,Apartment,CBD,1,1,3,4.41,15,No,4,45.0,5,5.0,No
+990977,Samuel Ali,House,CBD,2,2,4,4.69,17,No,3,56.0,5,3.0,Yes
+994930,Ava Nguyen,Townhouse,Outer Suburb,3,3,7,4.74,119,No,15,86.0,2,8.0,Yes
+993027,Ben Clark,House,Outer Suburb,2,2,5,4.44,17,No,3,47.0,2,5.0,No
+992736,Arjun Le,Studio,Outer Suburb,1,2,4,3.66,98,No,12,57.0,1,5.0,Yes
+991984,Liam Harris,Studio,CBD,1,1,4,,65,Yes,11,,3,7.0,Yes
+990576,An Wang,Apartment,CBD,1,1,2,4.1,19,Yes,2,52.0,1,4.0,Yes
+990023,Daniel Scott,Apartment,Inner Suburb,1,2,2,4.55,36,Yes,5,55.0,3,6.0,No
+991751,Amelia Chen,Villa,CBD,3,3,8,,62,Yes,5,,1,6.0,Yes
+995276,Samuel Le,Villa,Outer Suburb,5,2,10,4.8,62,No,12,87.0,1,8.0,No
+993576,Olivia Lee,Apartment,CBD,1,1,2,4.33,20,No,3,70.0,1,8.0,No
+997536,Chloe Lee,House,Inner Suburb,3,3,7,4.4,28,No,2,88.0,4,6.0,No
+990819,Michael Jones,Apartment,Outer Suburb,2,2,4,4.54,40,No,3,68.0,2,7.0,No
+993341,Sophie Tran,Apartment,Inner Suburb,2,2,5,4.4,156,Yes,3,70.0,1,4.0,Yes
+995537,Chloe Wilson,Apartment,Outer Suburb,1,1,2,4.53,30,No,2,46.0,1,5.0,Yes
+996723,Anna Ali,House,Outer Suburb,4,3,8,4.56,36,No,3,90.0,2,6.0,No
+991270,Aisha Jones,Townhouse,Inner Suburb,2,2,5,5.0,37,No,2,54.0,1,7.0,Yes
+991174,Amelia Walker,Apartment,Regional,3,2,6,4.44,89,No,15,67.0,3,7.0,Yes
+995916,Samuel Jones,House,Inner Suburb,5,3,10,4.13,44,Yes,3,108.0,2,10.0,Yes
+992722,Sophie Jones,Apartment,Regional,1,1,3,4.57,119,Yes,2,43.0,1,3.0,Yes
+995489,Jack Khan,Studio,CBD,1,1,2,4.2,13,No,4,38.0,3,6.0,Yes
+990676,Minh Wilson,Townhouse,Outer Suburb,3,3,8,4.28,25,No,6,78.0,2,7.0,Yes
+993912,Olivia Young,Studio,Outer Suburb,1,1,1,,54,No,10,39.0,1,3.0,Yes
+993586,Arjun White,Apartment,Outer Suburb,2,2,4,4.91,32,Yes,1,50.0,1,5.0,No
+992691,Sophie Young,Apartment,Outer Suburb,1,1,1,4.43,12,No,1,63.0,2,8.0,No
+995698,Hannah Wang,House,Outer Suburb,2,2,6,4.32,9,No,1,54.0,1,4.0,Yes
+992572,Minh Taylor,House,Outer Suburb,5,2,10,4.48,58,Yes,3,104.0,14,10.0,Yes
+990328,Mei Martin,Villa,Inner Suburb,5,3,9,4.68,20,No,0,115.0,7,9.0,Yes
+994206,Sophie Thomas,House,CBD,3,3,5,4.26,46,No,8,87.0,2,4.0,Yes
+993636,Mia Young,Apartment,Inner Suburb,2,2,4,4.66,52,No,8,52.0,2,4.0,Yes
+993740,Liam Wilson,Apartment,Outer Suburb,2,1,5,4.43,18,No,7,60.0,3,5.0,Yes
+990012,James Jones,Apartment,Outer Suburb,2,3,4,4.76,30,No,8,65.0,1,6.0,No
+997298,Olivia Clark,Apartment,Regional,3,2,6,4.57,56,No,4,78.0,2,7.0,No
+993423,Minh White,Townhouse,Outer Suburb,4,3,8,4.57,25,Yes,5,103.0,1,6.0,Yes
+995904,Omar Anderson,Apartment,Regional,1,1,4,4.32,54,No,3,44.0,3,5.0,Yes
+996364,Noah Wang,House,Outer Suburb,3,2,5,,34,Yes,11,,5,4.0,Yes
+990247,Henry Brown,Studio,CBD,1,2,2,4.46,32,Yes,2,52.0,7,5.0,Yes
+996877,Sophie Harris,Apartment,CBD,1,1,3,,73,Yes,10,,5,5.0,Yes
+993399,Omar Patel,House,Inner Suburb,3,2,6,4.72,47,Yes,1,65.0,7,5.0,Yes
+993049,Henry Anderson,Townhouse,Outer Suburb,3,3,6,4.39,21,Yes,1,79.0,1,5.0,Yes
+996043,Mei Wang,Apartment,Outer Suburb,1,2,2,3.96,18,No,4,48.0,2,5.0,No
+996330,Mai Le,House,Outer Suburb,3,2,8,4.52,61,No,4,90.0,1,7.0,Yes
+995607,William Nguyen,Townhouse,Regional,4,2,10,4.4,37,Yes,2,86.0,1,5.0,No
+991935,Ethan Smith,House,Outer Suburb,3,3,6,4.49,40,Yes,5,91.0,2,8.0,No
+995242,Linh Smith,Apartment,Inner Suburb,1,1,2,4.64,26,No,8,65.0,1,7.0,Yes
+996467,Arjun Taylor,Apartment,Outer Suburb,1,1,4,4.52,50,Yes,0,54.0,2,6.0,Yes
+997625,Priya Tran,Apartment,Inner Suburb,1,2,2,4.49,85,No,4,53.0,2,3.0,Yes
+996939,Chloe King,Studio,Outer Suburb,1,2,4,4.44,38,Yes,0,59.0,1,7.0,Yes
+995406,Anna Wilson,Studio,Outer Suburb,1,2,1,4.48,80,Yes,6,58.0,1,6.0,No
+993829,Oliver Khan,Apartment,Regional,2,2,3,4.33,129,No,2,62.0,1,7.0,No
+996628,Jack King,Apartment,Inner Suburb,1,1,2,4.49,20,No,0,40.0,1,6.0,Yes
+994319,David Clark,House,Regional,2,2,4,4.45,20,No,4,74.0,7,4.0,No
+996619,Grace White,Apartment,Regional,2,2,3,4.22,48,Yes,3,56.0,1,4.0,Yes
+994106,Hannah Brown,Apartment,Regional,1,1,1,4.53,58,No,6,31.0,1,3.0,Yes
+995315,Liam Khan,Apartment,Regional,1,1,2,4.55,7,No,2,59.0,1,7.0,No
+990289,Oliver Ali,Apartment,Inner Suburb,2,2,4,4.37,34,No,8,63.0,1,2.0,No
+995723,Aisha Harris,Apartment,Outer Suburb,1,1,1,4.44,46,No,11,55.0,1,7.0,Yes
+994596,Anna Walker,Studio,CBD,1,2,1,4.22,19,No,5,59.0,2,6.0,No
+997743,Omar Anderson,Townhouse,CBD,3,2,7,4.53,62,No,4,71.0,2,6.0,No
+994801,Priya Wang,Apartment,Outer Suburb,2,2,4,4.71,83,Yes,2,58.0,2,6.0,Yes
+997699,Grace Tran,Apartment,Outer Suburb,1,1,3,4.31,72,No,2,58.0,7,6.0,No
+994625,Sophie Le,Studio,Outer Suburb,1,1,2,4.21,90,No,3,37.0,3,3.0,Yes
+993845,Thomas Khan,Apartment,Inner Suburb,1,1,1,4.26,86,Yes,8,50.0,1,4.0,Yes
+997650,Ben Thomas,Apartment,Regional,1,1,3,4.34,27,No,1,30.0,10,4.0,Yes
+995174,Mia Brown,Apartment,Outer Suburb,1,1,1,4.36,102,Yes,0,44.0,2,3.0,No
+997617,Sophie Harris,Apartment,Regional,2,1,4,4.73,33,Yes,6,60.0,3,4.0,No
+997229,Mei Singh,Studio,Regional,1,1,2,4.65,51,Yes,8,53.0,1,5.0,No
+990327,Olivia Thomas,Apartment,CBD,1,1,4,4.66,48,No,7,40.0,3,8.0,Yes
+994551,Zoe Young,House,Inner Suburb,3,3,8,4.43,27,Yes,0,69.0,1,6.0,Yes
+990255,Henry Smith,Studio,Inner Suburb,1,1,3,4.74,79,Yes,1,64.0,2,7.0,Yes
+997910,William Thomas,Apartment,Inner Suburb,2,2,4,4.93,42,No,2,55.0,4,7.0,No
+996513,Emma Chen,Apartment,Inner Suburb,1,2,1,4.08,33,No,6,30.0,2,3.0,Yes
+991532,Aisha Singh,Townhouse,Regional,4,2,8,4.44,128,Yes,0,93.0,2,8.0,Yes
+994656,Chloe Jones,Apartment,Inner Suburb,1,1,1,4.55,60,No,0,46.0,5,7.0,No
+993728,Hannah Singh,House,Inner Suburb,3,2,6,4.93,26,Yes,3,67.0,1,6.0,No
+993237,Wei Singh,Apartment,Inner Suburb,1,2,2,4.37,37,No,5,51.0,7,4.0,No
+997097,James Scott,Apartment,Inner Suburb,2,2,4,4.55,3,No,1,53.0,1,7.0,Yes
+993342,Anna Harris,Studio,Inner Suburb,1,2,2,4.28,52,Yes,2,60.0,1,5.0,No
+992326,Omar Harris,House,CBD,4,2,8,4.84,38,Yes,7,92.0,5,7.0,No
+995631,An Lee,Villa,Outer Suburb,4,2,8,4.31,21,Yes,2,94.0,2,8.0,No
+990263,Lucas White,House,CBD,4,3,8,4.44,14,No,4,90.0,1,7.0,No
+991722,David Khan,Apartment,Outer Suburb,2,2,4,4.28,25,No,0,65.0,1,6.0,Yes
+992377,Arjun Clark,House,Outer Suburb,3,2,6,4.55,22,No,2,69.0,3,7.0,Yes
+997528,Lucas Le,Apartment,Regional,2,2,5,4.44,20,No,2,78.0,1,8.0,Yes
+992102,Olivia Brown,House,CBD,2,2,5,4.57,11,No,3,55.0,1,6.0,Yes
+991234,William Ali,Townhouse,Inner Suburb,3,2,6,4.25,60,No,7,70.0,3,6.0,Yes
+994236,Chloe King,House,Outer Suburb,3,3,6,4.49,67,Yes,0,93.0,1,7.0,Yes
+991224,Grace Clark,House,Outer Suburb,5,3,10,4.44,64,No,15,92.0,2,7.0,No
+992717,Lucas Jones,Apartment,CBD,1,2,2,4.26,20,Yes,2,52.0,1,7.0,No
+991339,Mia Chen,Apartment,Inner Suburb,1,1,4,4.67,62,No,5,59.0,1,6.0,No
+994332,Zoe Anderson,Townhouse,CBD,3,2,7,4.88,20,No,1,75.0,2,5.0,Yes
+996082,Lucas Nguyen,House,CBD,5,3,10,4.9,206,Yes,8,91.0,1,7.0,Yes
+994674,Wei Harris,Villa,Regional,5,3,10,4.76,70,Yes,6,101.0,3,8.0,No
+996216,Mia Singh,Apartment,Inner Suburb,1,1,4,4.49,52,No,9,40.0,5,4.0,Yes
+991267,Ethan Le,Apartment,CBD,1,1,2,4.22,260,Yes,1,53.0,7,3.0,Yes
+993947,David Tran,Apartment,Inner Suburb,1,1,2,4.44,40,Yes,3,34.0,1,6.0,Yes
+991055,David Tran,Apartment,CBD,1,1,4,4.31,145,No,10,53.0,1,4.0,Yes
+996278,Mei Walker,Apartment,Inner Suburb,2,1,5,4.74,26,Yes,2,69.0,3,6.0,Yes
+992579,Oliver Clark,Townhouse,CBD,3,2,8,4.87,79,No,5,96.0,3,8.0,Yes
+997527,Olivia Taylor,House,CBD,4,3,8,4.07,20,No,5,63.0,1,4.0,No
+992109,An Taylor,Townhouse,CBD,3,3,8,4.5,49,Yes,7,68.0,1,8.0,Yes
+993013,Noah King,Studio,Inner Suburb,1,1,3,4.65,108,Yes,15,43.0,1,5.0,Yes
+993168,Sarah Khan,Apartment,CBD,1,2,2,4.05,63,No,7,45.0,2,3.0,No
+994670,Mei Patel,Apartment,Inner Suburb,3,3,7,4.66,77,No,1,73.0,2,5.0,No
+991696,Ben Thomas,House,Regional,3,3,8,4.51,65,Yes,10,85.0,14,8.0,No
+993280,Emily Martin,Townhouse,Outer Suburb,4,3,10,4.54,54,No,4,90.0,1,7.0,Yes
+994729,Jack Nguyen,Villa,Inner Suburb,4,3,9,4.55,31,No,8,86.0,3,9.0,Yes
+993878,Aisha Jones,Townhouse,Inner Suburb,4,3,10,4.06,6,No,2,76.0,2,6.0,No
+994685,Ethan Le,Studio,Regional,1,2,1,4.65,82,No,6,46.0,2,4.0,No
+996548,Wei Patel,House,Outer Suburb,4,2,7,4.65,53,No,4,85.0,1,6.0,No
+994429,Liam Tran,House,Inner Suburb,3,3,7,4.54,63,Yes,3,87.0,2,8.0,Yes
+995477,Sarah Anderson,Apartment,Outer Suburb,1,2,3,4.08,72,No,0,55.0,2,3.0,No
+992399,Samuel Clark,House,Outer Suburb,4,2,8,4.22,124,No,5,71.0,1,4.0,No
+994209,Amelia Young,House,Regional,5,4,10,4.21,70,No,1,94.0,1,6.0,Yes
+990554,Sarah Khan,House,CBD,2,2,6,4.85,19,Yes,1,54.0,1,7.0,Yes
+993039,Jack Anderson,House,Inner Suburb,2,2,4,4.3,36,No,1,68.0,1,6.0,Yes
+995018,An King,House,Inner Suburb,4,3,8,4.45,16,No,9,86.0,7,6.0,Yes
+991962,Mei Le,Studio,Regional,1,1,2,4.45,102,Yes,3,52.0,2,7.0,No
+990710,Chloe Lee,House,Inner Suburb,4,2,10,4.08,10,No,0,70.0,1,5.0,Yes
+996800,Hannah Wilson,Townhouse,Outer Suburb,3,3,8,4.01,58,Yes,12,85.0,3,7.0,Yes
+995009,Sophie Wilson,Apartment,Regional,2,2,4,4.1,61,No,1,69.0,10,7.0,No
+991987,James Singh,Apartment,Outer Suburb,3,2,8,4.81,54,No,10,95.0,3,8.0,Yes
+997706,Olivia Young,Apartment,Outer Suburb,3,3,8,4.28,49,Yes,2,90.0,1,6.0,Yes
+994632,David Brown,Villa,Inner Suburb,4,3,10,3.96,19,No,3,83.0,2,8.0,Yes
+991168,Michael Smith,House,Inner Suburb,3,3,6,4.7,84,No,8,75.0,2,8.0,Yes
+993086,Olivia Patel,House,Outer Suburb,3,2,7,4.07,35,No,1,68.0,2,5.0,Yes
+992678,Henry Brown,Villa,Outer Suburb,5,3,10,4.37,129,No,2,97.0,2,5.0,Yes
+996341,Hannah Tran,House,Inner Suburb,3,3,6,4.38,96,Yes,15,78.0,1,7.0,Yes
+990545,Jack Thomas,Apartment,Inner Suburb,1,1,2,4.41,69,Yes,1,49.0,7,6.0,No
+994864,Thomas Nguyen,Studio,Regional,1,1,3,4.75,94,No,10,39.0,3,4.0,Yes
+997848,Amelia Wilson,Studio,Inner Suburb,1,2,2,4.23,130,Yes,1,64.0,1,6.0,No
+994961,Ethan Harris,House,Inner Suburb,4,2,8,4.04,87,No,5,95.0,1,7.0,Yes
+997670,David Brown,Studio,Outer Suburb,1,1,4,4.52,25,No,1,46.0,1,7.0,No
+992241,Zoe Brown,House,CBD,3,3,6,4.58,12,No,1,83.0,2,9.0,Yes
+997166,Ethan Smith,House,Outer Suburb,4,3,7,4.57,8,No,1,96.0,2,,Yes
+996111,Chloe Singh,Studio,Inner Suburb,1,2,2,3.88,65,No,9,37.0,3,5.0,No
+995733,Anna Ali,Apartment,Outer Suburb,2,2,6,4.7,20,No,5,60.0,3,7.0,Yes
+994658,Ben King,Apartment,Inner Suburb,1,1,3,4.4,113,No,2,49.0,3,6.0,No
+991088,Aisha Le,Apartment,Outer Suburb,2,1,3,4.87,89,Yes,12,79.0,3,8.0,Yes
+996225,Henry Lee,Villa,Outer Suburb,2,2,6,4.46,20,No,0,61.0,2,2.0,No
+990645,Anna Brown,Studio,Inner Suburb,1,2,2,,17,No,1,,1,3.0,No
+993537,Mia Brown,House,Outer Suburb,4,2,8,4.23,16,No,1,69.0,3,,Yes
+997937,Aisha Le,Apartment,Outer Suburb,1,2,3,4.44,68,No,6,62.0,3,8.0,No
+996487,Oliver King,House,Inner Suburb,2,1,5,4.52,23,No,4,63.0,4,6.0,Yes
+996791,Amelia Taylor,Apartment,Outer Suburb,2,1,6,4.55,38,No,1,73.0,1,10.0,Yes
+995719,Emma Wang,Apartment,Inner Suburb,2,2,4,4.31,51,Yes,9,75.0,3,7.0,No
+993130,Anna Scott,Studio,Inner Suburb,1,1,2,4.52,84,Yes,1,36.0,3,6.0,No
+993930,Amelia Anderson,Studio,Outer Suburb,1,2,2,4.47,61,Yes,12,53.0,3,8.0,Yes
+995936,Chloe Anderson,House,Outer Suburb,4,2,8,4.55,9,No,2,68.0,1,8.0,Yes
+994905,Omar Patel,Townhouse,Regional,4,2,8,4.21,29,No,0,84.0,2,6.0,No
+996674,David Thomas,Apartment,Inner Suburb,2,1,4,4.16,60,No,11,63.0,2,6.0,No
+997142,Olivia Brown,Studio,Inner Suburb,1,1,1,4.73,33,No,3,52.0,3,7.0,Yes
+990737,Oliver Walker,Apartment,Inner Suburb,1,2,4,4.7,58,No,1,57.0,5,6.0,No
+992507,Ethan Patel,Studio,CBD,1,1,2,4.88,64,No,2,50.0,2,6.0,Yes
+994614,Anna Smith,House,Inner Suburb,3,2,6,4.54,0,No,0,74.0,3,,Yes
+995117,Hannah Wang,Studio,CBD,1,2,2,5.0,76,Yes,9,55.0,2,6.0,Yes
+996433,Sarah Smith,Townhouse,Inner Suburb,3,2,6,4.46,151,No,3,71.0,3,5.0,No
+991845,Ava Anderson,House,Outer Suburb,5,3,10,4.74,103,Yes,2,91.0,1,9.0,No
+992178,Mai Walker,Townhouse,Outer Suburb,2,2,3,4.53,29,Yes,3,71.0,7,6.0,Yes
+990703,Oliver King,House,Regional,3,2,5,4.66,30,No,4,85.0,2,9.0,Yes
+994859,An Nguyen,House,Inner Suburb,5,3,10,4.43,81,No,9,105.0,3,10.0,No
+995140,James Smith,House,CBD,3,2,7,4.58,9,No,0,83.0,1,7.0,No
+990599,Aisha Scott,Townhouse,Inner Suburb,2,2,5,4.84,32,Yes,2,56.0,1,8.0,Yes
+994914,Sarah Young,Townhouse,Outer Suburb,4,3,7,4.73,6,No,1,77.0,2,10.0,Yes
+997304,Noah Chen,Studio,Inner Suburb,1,1,3,4.88,143,Yes,0,33.0,1,5.0,No
+990361,Mia Lee,House,Inner Suburb,4,2,8,4.39,101,Yes,5,88.0,1,5.0,Yes
+993396,Amelia Ali,Townhouse,Regional,2,3,6,4.49,42,No,4,76.0,1,6.0,Yes
+993064,An Harris,Studio,CBD,1,2,2,4.14,21,No,0,54.0,1,5.0,No
+997227,Chloe Lee,Studio,Outer Suburb,1,1,3,4.52,88,Yes,4,53.0,2,9.0,No
+990107,Isla Nguyen,Villa,Regional,3,2,7,4.26,36,No,8,75.0,3,5.0,Yes
+991642,Lily Clark,Apartment,CBD,1,2,1,4.39,52,Yes,5,50.0,2,7.0,No
+991973,Sophie Lee,House,Inner Suburb,3,1,5,4.78,52,Yes,6,74.0,2,7.0,No
+995542,Chloe Smith,House,Outer Suburb,3,2,6,4.76,25,Yes,2,84.0,1,6.0,No
+997994,Wei Taylor,Apartment,Outer Suburb,3,2,8,4.42,145,No,15,73.0,3,9.0,No
+991303,Lucas Harris,Studio,Inner Suburb,1,1,2,4.52,121,No,5,46.0,2,7.0,No
+994983,Lily Harris,Apartment,Inner Suburb,2,2,4,3.99,47,No,4,61.0,1,5.0,No
+993404,Henry Chen,House,Inner Suburb,3,2,6,4.7,29,Yes,4,74.0,4,6.0,No
+997058,Lily Le,House,CBD,3,3,8,4.42,105,Yes,3,89.0,4,6.0,Yes
+996469,David Taylor,House,CBD,3,3,6,4.42,57,No,1,81.0,1,5.0,No
+996027,Mei Brown,Apartment,Outer Suburb,1,2,2,4.32,59,Yes,6,43.0,1,4.0,Yes
+996844,Ethan Taylor,House,Regional,3,2,8,4.64,25,No,5,56.0,1,6.0,Yes
+996654,Henry King,House,Inner Suburb,4,3,10,4.82,152,Yes,1,78.0,3,7.0,Yes
+992915,Jack Clark,Townhouse,Inner Suburb,3,2,6,4.57,40,No,9,75.0,2,6.0,Yes
+996437,Amelia Young,House,Regional,5,3,10,4.64,74,Yes,0,84.0,2,5.0,Yes
+996313,James Brown,Apartment,Regional,1,1,2,4.75,23,No,1,42.0,1,3.0,Yes
+995043,Hannah Brown,Townhouse,Outer Suburb,3,2,6,4.51,30,No,4,59.0,1,5.0,Yes
+992317,Emily Wilson,House,CBD,4,3,7,4.28,93,Y,10,78.0,2,6.0,No
+990375,Sarah Le,House,Outer Suburb,4,3,8,4.55,36,Yes,5,92.0,3,7.0,No
+996456,Mai Clark,Apartment,CBD,3,2,7,3.91,19,No,2,65.0,1,5.0,Yes
+994606,Ethan Patel,House,Outer Suburb,2,2,4,4.35,40,No,7,70.0,5,4.0,Yes
+996679,Noah Brown,Townhouse,CBD,2,3,5,4.65,9,No,0,74.0,2,6.0,Yes
+996317,Aisha Scott,Apartment,CBD,1,1,1,4.6,44,Yes,3,34.0,4,6.0,No
+993762,Aisha Martin,Townhouse,Regional,2,1,4,4.23,62,No,0,73.0,7,8.0,Yes
+991977,William Lee,House,CBD,4,3,8,4.47,118,Yes,14,80.0,3,7.0,Yes
+992918,Thomas Anderson,Studio,Inner Suburb,1,2,4,4.28,18,No,4,36.0,1,3.0,Yes
+990497,Mai Smith,Studio,CBD,1,1,4,4.47,7,No,0,49.0,3,5.0,No
+991328,Grace Tran,Apartment,Outer Suburb,2,1,5,4.99,63,Yes,4,49.0,1,6.0,Yes
+990547,James Harris,Villa,Inner Suburb,4,3,8,4.68,12,No,3,81.0,1,5.0,No
+996182,Anna Jones,Apartment,Inner Suburb,2,2,4,4.37,23,No,7,78.0,1,7.0,No
+994849,Oliver Clark,House,Outer Suburb,4,3,9,4.98,51,Yes,0,77.0,2,7.0,Yes
+993500,Ben Jones,Apartment,Outer Suburb,1,1,2,3.84,20,No,5,48.0,3,3.0,Yes
+996919,Isla Patel,Town House,Outer Suburb,2,1,4,4.32,167,No,15,58.0,1,4.0,No
+991135,Chloe Scott,House,Inner Suburb,2,2,6,4.31,30,No,1,55.0,3,5.0,Yes
+997385,Omar Smith,House,Inner Suburb,4,2,9,4.41,93,Yes,5,83.0,1,5.0,Yes
+995823,Isla Chen,Apartment,Regional,1,2,1,4.87,46,Yes,0,69.0,1,9.0,Yes
+997827,Amelia Martin,House,CBD,5,4,10,4.31,19,No,3,106.0,1,8.0,No
+992009,Linh Jones,Apartment,Outer Suburb,1,1,4,4.72,109,No,0,34.0,2,5.0,Yes
+993327,Olivia Martin,Villa,Regional,4,3,8,4.35,59,No,2,90.0,7,9.0,Yes
+995168,Priya Tran,Studio,Inner Suburb,1,2,1,4.34,81,No,7,49.0,1,5.0,Yes
+993291,David Lee,Apartment,Inner Suburb,1,2,3,4.35,114,No,1,33.0,1,5.0,Yes
+993534,Hannah Lee,Townhouse,Inner Suburb,3,2,7,4.74,5,No,0,77.0,2,6.0,No
+996272,Lucas Ali,Villa,Outer Suburb,4,2,7,4.24,50,No,12,80.0,1,7.0,Yes
+994020,Grace Anderson,Studio,Regional,1,1,4,4.08,31,Yes,2,37.0,5,1.0,Yes
+997275,Mai Khan,Villa,Outer Suburb,3,1,8,4.38,44,No,2,56.0,3,6.0,Yes
+992311,Sarah Tran,Studio,Inner Suburb,1,2,2,4.22,69,No,9,57.0,1,5.0,Yes
+990707,Priya Wang,Villa,Regional,4,3,8,4.95,35,Yes,1,81.0,1,10.0,No
+993544,Oliver Singh,Studio,CBD,1,1,3,4.54,16,No,0,45.0,3,6.0,Yes
+991649,David Anderson,Apartment,Inner Suburb,2,2,4,4.48,25,No,1,69.0,1,9.0,Yes
+996151,Ethan Brown,House,Inner Suburb,4,3,8,4.32,8,No,0,69.0,1,6.0,No
+997510,David Thomas,Townhouse,CBD,3,2,8,4.68,110,Yes,7,61.0,3,7.0,Yes
+996392,Mai Thomas,Apartment,Outer Suburb,2,2,4,4.51,26,No,1,59.0,7,5.0,Yes
+997590,Emma Jones,Villa,Outer Suburb,4,2,7,4.73,69,Yes,1,75.0,1,5.0,Yes
+997025,Henry Brown,House,CBD,2,2,4,4.39,72,No,9,43.0,2,5.0,Yes
+990042,Jack Martin,Studio,Regional,1,1,2,4.23,7,No,2,37.0,4,4.0,Yes
+997409,Anna Khan,Apartment,Outer Suburb,1,1,2,4.58,25,No,1,62.0,1,7.0,Yes
+997161,William Wilson,Apartment,Inner Suburb,3,2,6,4.15,14,No,1,80.0,4,7.0,Yes
+996881,Michael Chen,Apartment,Outer Suburb,1,2,4,4.33,21,Yes,2,42.0,3,3.0,No
+994856,Priya Walker,House,Regional,2,1,5,4.66,17,No,2,53.0,2,4.0,No
+990723,Arjun Lee,Townhouse,Inner Suburb,3,3,8,4.43,17,No,6,59.0,1,5.0,Yes
+996444,Linh Thomas,House,Regional,4,3,10,4.36,20,Yes,1,86.0,5,5.0,No
+994001,Arjun Le,Apartment,Outer Suburb,2,2,3,4.09,89,No,15,80.0,3,6.0,No
+993928,Noah Anderson,Apartment,Outer Suburb,1,2,1,4.62,32,No,1,54.0,1,6.0,Yes
+994469,Thomas King,House,Outer Suburb,2,2,6,4.54,82,No,15,52.0,2,5.0,Yes
+997558,Samuel Young,Studio,Regional,1,2,3,4.25,16,No,2,36.0,1,5.0,Yes
+991547,Grace Chen,Apartment,Inner Suburb,3,2,8,4.03,87,No,2,87.0,2,7.0,No
+991627,Grace Wang,Apartment,CBD,2,2,5,4.65,51,N,4,54.0,2,4.0,No
+992301,Mei Smith,House,Inner Suburb,2,2,4,4.36,48,No,6,56.0,2,4.0,Yes
+992018,Omar Ali,Apartment,Inner Suburb,2,1,4,4.28,43,Yes,9,78.0,3,7.0,Yes
+992300,Lucas Anderson,Villa,Regional,4,2,8,4.6,99,Yes,6,86.0,2,5.0,Yes
+992308,Jack Lee,House,Inner Suburb,4,2,8,4.47,89,Yes,5,78.0,1,7.0,No
+996200,Emma Brown,House,Outer Suburb,4,3,8,4.88,103,Yes,0,95.0,5,,No
+996849,Isla Singh,Apartment,Inner Suburb,1,2,2,4.02,126,Yes,10,43.0,3,3.0,No
+991041,Michael Le,Apartment,Regional,1,1,2,4.73,51,No,3,40.0,1,5.0,Yes
+990587,Mia Le,Villa,Inner Suburb,5,3,10,4.64,13,No,1,84.0,2,7.0,Yes
+990343,Jack Patel,House,CBD,2,1,6,,98,No,7,,1,7.0,No
+994647,Linh Nguyen,Villa,Regional,5,3,10,4.26,32,No,1,91.0,1,9.0,Yes
+991264,Emma Young,villa,Outer Suburb,4,3,8,3.92,34,No,3,100.0,1,9.0,No
+994488,Grace Singh,Apartment,CBD,1,1,4,4.27,55,No,12,56.0,2,4.0,Yes
+996057,Minh Martin,Studio,Inner Suburb,1,2,4,4.38,45,Yes,3,53.0,2,5.0,Yes
+992044,Mia Le,Studio,Regional,1,1,4,4.31,18,No,1,43.0,3,5.0,Yes
+993840,Zoe Clark,Townhouse,Inner Suburb,4,2,9,4.38,7,No,2,76.0,2,7.0,Yes
+995938,Linh Ali,Apartment,Outer Suburb,2,2,4,4.34,54,No,5,84.0,2,7.0,Yes
+997562,Ben Smith,Studio,Outer Suburb,1,1,3,4.61,45,No,15,54.0,4,6.0,Yes
+990982,Oliver Lee,Apartment,Outer Suburb,1,2,3,4.83,61,Yes,15,51.0,1,7.0,Yes
+993023,Mei Wilson,Apartment,CBD,1,1,3,3.99,12,No,0,45.0,1,2.0,Yes
+997586,Mei Khan,House,Inner Suburb,4,2,8,5.0,116,Yes,4,90.0,1,8.0,Yes
+991779,Amelia Anderson,House,Outer Suburb,4,3,8,4.85,21,Yes,3,87.0,2,7.0,Yes
+990640,Mei King,House,Outer Suburb,3,2,7,4.69,29,Yes,3,72.0,2,6.0,No
+996375,Jack Walker,Apartment,Outer Suburb,2,2,3,4.31,75,Yes,4,52.0,1,9.0,Yes
+997522,Zoe Harris,Villa,Outer Suburb,5,3,10,4.56,58,No,3,94.0,4,6.0,No
+991347,Mei Jones,Studio,Outer Suburb,1,1,3,4.25,4,No,1,43.0,3,5.0,Yes
+990056,Michael Patel,House,Regional,3,3,5,4.65,23,No,4,67.0,10,4.0,Yes
+994530,Henry Chen,Studio,Outer Suburb,1,2,1,4.39,20,No,1,53.0,2,7.0,Yes
+991274,Grace Wang,Townhouse,Outer Suburb,4,3,9,4.29,108,No,3,89.0,1,5.0,No
+995169,Ben Ali,Townhouse,Inner Suburb,2,2,6,4.29,40,Yes,6,47.0,1,7.0,Yes
+994080,Ben Ali,House,CBD,3,3,6,4.4,40,No,1,78.0,2,5.0,Yes
+997401,Priya Nguyen,Apartment,Regional,2,2,5,3.93,64,No,14,77.0,2,7.0,No
+995560,Ava Anderson,Apartment,Outer Suburb,2,2,4,4.55,56,No,15,53.0,3,3.0,Yes
+990997,Anna Tran,House,CBD,3,2,8,4.51,15,No,3,62.0,7,6.0,No
+990002,Sarah Chen,Studio,Inner Suburb,1,1,2,4.56,17,No,2,30.0,2,2.0,Yes
+994229,David Chen,Apartment,Outer Suburb,1,1,2,4.65,129,No,9,53.0,4,5.0,No
+993138,Ben Taylor,House,Outer Suburb,2,2,3,4.28,40,Yes,13,77.0,3,6.0,Yes
+996371,Chloe Le,House,Outer Suburb,3,2,6,4.56,76,No,2,79.0,2,7.0,Yes
+991678,Liam Martin,Apartment,CBD,2,2,4,4.03,33,No,2,46.0,2,3.0,Yes
+990717,Ben Ali,Apartment,Regional,1,2,3,5.0,77,Yes,5,47.0,2,8.0,No
+993245,Emily Harris,House,Inner Suburb,4,3,8,4.65,86,Yes,15,79.0,1,6.0,Yes
+990852,Amelia Brown,Townhouse,Inner Suburb,3,3,6,4.2,27,No,9,82.0,2,6.0,No
+991692,Arjun Lee,Studio,Outer Suburb,1,1,4,3.97,61,No,4,37.0,2,7.0,No
+990988,Henry Martin,Apartment,CBD,2,1,4,4.71,84,No,5,44.0,3,3.0,Yes
+997866,Henry Jones,Apartment,Inner Suburb,2,2,4,4.5,35,No,4,61.0,4,5.0,Yes
+994721,Arjun White,Apartment,CBD,1,1,2,4.41,70,Yes,10,42.0,1,6.0,Yes
+997825,Sophie Anderson,Studio,Inner Suburb,1,1,3,4.32,10,No,4,42.0,5,2.0,No
+991166,Henry Lee,Apartment,Regional,1,1,1,4.28,23,No,6,49.0,1,3.0,Yes
+995956,William Clark,House,CBD,3,2,5,4.43,154,Yes,15,67.0,3,7.0,Yes
+996716,Liam Lee,Apartment,CBD,1,1,1,3.99,22,No,6,37.0,2,3.0,Yes
+993555,Ben Patel,Studio,Regional,1,1,4,4.45,50,Yes,4,63.0,2,6.0,No
+994835,Arjun White,Townhouse,Regional,3,3,8,4.04,147,No,1,66.0,1,4.0,Yes
+991316,Linh Harris,Apartment,Inner Suburb,1,2,3,4.44,35,No,11,61.0,2,4.0,Yes
+990849,Emma Walker,Apartment,CBD,2,2,6,4.48,94,Yes,5,64.0,1,8.0,Yes
+994221,Omar Patel,House,Inner Suburb,4,2,8,4.28,7,No,1,93.0,1,7.0,Yes
+990005,Sarah Brown,House,Outer Suburb,4,2,8,4.39,100,No,0,86.0,1,8.0,Yes
+996524,Oliver Jones,Townhouse,Regional,3,3,6,4.48,9,No,3,77.0,1,4.0,No
+990862,Amelia Singh,House,CBD,4,3,8,4.33,13,No,0,81.0,1,6.0,Yes
+997869,Ava Scott,Townhouse,CBD,2,2,4,4.06,92,No,11,66.0,1,7.0,Yes
+994141,Grace Scott,Townhouse,CBD,2,2,4,4.62,47,No,1,64.0,2,6.0,Yes
+997882,Omar Scott,House,CBD,5,3,10,4.72,43,No,2,110.0,3,7.0,No
+992031,Sophie Jones,House,CBD,2,2,6,4.34,9,No,3,76.0,1,6.0,Yes
+996090,Priya Taylor,House,Inner Suburb,4,3,9,4.57,45,Yes,2,84.0,7,8.0,Yes
+993567,Ben Patel,Townhouse,Inner Suburb,3,3,7,4.53,39,No,15,56.0,3,4.0,Yes
+992925,Jack Brown,House,Regional,3,2,6,4.2,148,No,5,79.0,1,7.0,Yes
+993413,James Young,House,CBD,3,3,6,4.55,22,No,1,83.0,1,5.0,No
+990231,Noah Smith,House,Inner Suburb,3,3,6,,89,Yes,1,,1,4.0,Yes
+995205,Priya White,Apartment,CBD,2,2,4,4.63,34,No,5,59.0,1,5.0,No
+992280,David Brown,Townhouse,Outer Suburb,3,3,6,4.49,24,No,2,75.0,1,6.0,Yes
+992502,Anna Wilson,House,CBD,2,2,6,3.94,12,No,1,70.0,3,4.0,Yes
+994739,Daniel Khan,Apartment,Inner Suburb,2,2,6,4.11,38,No,3,60.0,1,6.0,No
+993110,Sarah Wilson,House,CBD,3,2,8,4.06,8,No,2,60.0,2,3.0,No
+994497,Emily Ali,Studio,Inner Suburb,1,2,4,4.65,6,No,0,47.0,2,5.0,No
+996042,Omar Wilson,Apartment,Inner Suburb,2,1,4,4.93,20,No,1,63.0,3,6.0,Yes
+994806,Jack Scott,Studio,Inner Suburb,1,1,4,3.99,88,No,4,45.0,1,6.0,Yes
+993735,Ben Scott,Apartment,CBD,2,2,3,4.52,40,No,11,62.0,2,4.0,Yes
+994548,Lucas Clark,Studio,CBD,1,2,2,4.94,54,Yes,2,38.0,2,7.0,Yes
+997122,Emily Walker,Apartment,CBD,1,2,3,,148,Yes,6,,2,3.0,Yes
+992561,Priya Ali,Studio,Regional,1,2,3,4.31,54,No,1,68.0,1,7.0,Yes
+993632,Mei Smith,House,Inner Suburb,3,2,6,4.43,60,No,15,46.0,1,6.0,Yes
+993331,Jack Ali,Townhouse,Outer Suburb,3,3,5,4.62,41,Yes,1,83.0,2,6.0,Yes
+990752,Lucas Brown,House,Regional,5,2,10,4.64,152,Yes,11,100.0,2,7.0,Yes
+991826,James Brown,Villa,CBD,3,3,8,4.89,81,Yes,1,78.0,1,7.0,Yes
+997034,Emily Tran,Studio,CBD,1,2,2,4.38,39,No,5,54.0,3,4.0,Yes
+991394,Olivia Nguyen,Studio,CBD,1,1,1,4.65,41,Yes,10,45.0,1,9.0,Yes
+997620,An Patel,House,Outer Suburb,2,2,5,4.61,49,No,1,44.0,2,5.0,No
+992262,Anna Jones,Studio,Outer Suburb,1,2,2,4.51,52,Yes,2,63.0,2,4.0,No
+993132,Mai Smith,House,Inner Suburb,3,3,6,4.27,43,No,5,79.0,10,7.0,No
+991788,Lucas Khan,House,Outer Suburb,5,4,10,4.46,42,No,10,106.0,2,7.0,No
+995380,Omar Young,House,CBD,4,3,10,4.15,37,No,3,93.0,7,7.0,Yes
+996349,Liam White,Townhouse,Inner Suburb,2,2,4,4.95,56,Yes,2,52.0,4,7.0,Yes
+991478,Ethan Ali,Apartment,Inner Suburb,3,2,8,4.67,84,No,0,77.0,1,6.0,No
+994212,Olivia Harris,House,Regional,4,2,9,4.46,41,Yes,7,86.0,4,8.0,Yes
+992772,Chloe Young,Villa,Inner Suburb,5,3,10,4.51,90,Yes,8,106.0,1,9.0,Yes
+996602,Liam Smith,Studio,Inner Suburb,1,2,2,4.85,33,Yes,1,61.0,7,6.0,Yes
+994310,Ethan Scott,Apartment,CBD,1,1,3,4.97,45,Yes,0,67.0,2,8.0,No
+992081,William Brown,Apartment,Inner Suburb,1,2,2,4.29,28,No,1,46.0,1,4.0,Yes
+990133,Grace Le,Apartment,Inner Suburb,1,1,3,4.91,36,Yes,1,45.0,14,6.0,No
+997822,David Wilson,Studio,Outer Suburb,1,1,3,4.49,52,No,2,55.0,10,5.0,Yes
+994133,Minh Smith,Apartment,CBD,2,2,3,4.5,100,Yes,5,63.0,2,6.0,No
+995547,Henry Singh,House,Outer Suburb,5,3,10,4.49,6,No,0,89.0,5,4.0,Yes
+996604,Ethan White,Apartment,Outer Suburb,3,2,5,4.84,93,No,0,67.0,2,7.0,Yes
+993080,Priya Lee,Apartment,Regional,2,1,3,4.13,11,No,3,54.0,3,5.0,No
+994753,Mei Clark,Studio,Outer Suburb,1,1,2,4.79,26,No,0,41.0,2,4.0,Yes
+996798,Daniel Patel,Apartment,Inner Suburb,2,3,6,4.68,94,Yes,3,59.0,3,5.0,Yes
+997817,Lily Lee,Townhouse,Inner Suburb,3,2,8,4.34,105,Yes,6,87.0,7,7.0,Yes
+992388,Noah Walker,Apartment,Outer Suburb,2,1,6,4.49,187,No,3,65.0,1,7.0,Yes
+994621,Mia Martin,Apartment,CBD,1,1,4,4.49,85,Yes,1,57.0,1,6.0,Yes
+992185,Ethan Young,Apartment,CBD,1,1,2,4.28,124,No,15,67.0,2,8.0,No
+996969,Wei Taylor,Apartment,Inner Suburb,1,1,1,4.68,20,No,0,48.0,2,9.0,Yes
+994113,Emily Scott,Apartment,Outer Suburb,3,2,7,4.14,29,No,1,74.0,1,5.0,Yes
+991592,Wei Harris,Apartment,Regional,1,1,4,4.17,10,No,4,27.0,1,2.0,No
+994277,Mia Khan,Studio,CBD,1,2,4,4.57,21,Yes,2,75.0,1,6.0,No
+996959,Ava Anderson,Townhouse,Inner Suburb,2,2,3,4.72,69,Yes,7,70.0,3,9.0,Yes
+994341,Chloe Tran,House,CBD,4,3,8,4.93,142,Yes,11,73.0,1,6.0,Yes
+994307,Ava Scott,House,CBD,2,2,5,4.12,6,No,1,66.0,1,5.0,Yes
+994762,Linh Thomas,House,Inner Suburb,2,1,4,4.14,32,Yes,3,51.0,7,5.0,No
+990906,Emily Martin,Apartment,Regional,2,2,5,4.54,101,Yes,15,63.0,2,9.0,Yes
+991828,Minh Harris,Apartment,Inner Suburb,1,1,3,4.27,26,No,4,50.0,3,4.0,No
+994225,Omar Wang,Apartment,Inner Suburb,1,1,2,4.3,56,No,5,63.0,4,7.0,Yes
+993589,Mai Tran,Apartment,Outer Suburb,1,1,4,4.29,10,No,4,55.0,2,6.0,Yes
+995073,Olivia Ali,Apartment,Outer Suburb,1,2,2,4.62,143,Yes,3,56.0,1,4.0,Yes
+996593,Mei Tran,Studio,Inner Suburb,1,1,1,4.52,29,No,1,53.0,2,6.0,No
+991886,Grace Singh,Townhouse,CBD,3,3,6,4.32,73,Yes,3,69.0,3,6.0,Yes
+990112,Grace Singh,House,Outer Suburb,4,3,8,4.59,190,Yes,7,90.0,3,4.0,No
+996024,Chloe Walker,Apartment,Outer Suburb,1,1,2,4.4,71,No,8,39.0,1,5.0,Yes
+997081,Lucas Clark,House,Outer Suburb,4,3,7,3.98,73,No,6,89.0,2,4.0,Yes
+997160,Lucas Lee,Villa,Inner Suburb,4,3,7,4.42,78,Yes,9,81.0,1,6.0,No
+994205,Samuel Clark,Apartment,Inner Suburb,1,2,3,4.92,144,No,3,43.0,3,5.0,No
+991284,Amelia Lee,House,CBD,3,3,6,4.55,244,Yes,15,79.0,2,6.0,No
+990978,William Taylor,Townhouse,CBD,2,2,4,4.47,26,No,3,64.0,1,6.0,Yes
+992449,Ben Smith,Apartment,CBD,1,1,2,4.54,6,No,1,53.0,3,5.0,No
+990922,Thomas Wilson,Apartment,Inner Suburb,2,1,4,3.95,42,No,6,54.0,3,3.0,No
+992186,Ethan Martin,House,Inner Suburb,5,3,10,4.53,32,No,2,100.0,1,8.0,Yes
+994724,David Smith,Studio,Inner Suburb,1,1,2,4.75,23,No,4,52.0,10,7.0,No
+996006,Isla Walker,Townhouse,Outer Suburb,4,3,10,4.7,41,Yes,2,99.0,4,9.0,Yes
+991693,Oliver Harris,Apartment,Outer Suburb,2,2,3,4.46,33,No,2,71.0,1,7.0,Yes
+990689,Ava Smith,Apartment,Outer Suburb,1,1,3,4.57,51,Yes,4,39.0,3,5.0,No
+996269,Linh Nguyen,Studio,Inner Suburb,1,1,1,4.48,129,Yes,3,57.0,1,7.0,No
+995577,James Smith,Apartment,Inner Suburb,2,1,4,3.76,9,No,0,43.0,1,2.0,No
+997902,Mia Wang,Apartment,Inner Suburb,1,1,2,4.13,15,No,3,63.0,2,5.0,Yes
+996951,David King,Apartment,Regional,3,3,5,,33,No,15,,3,8.0,Yes
+995957,Chloe Martin,Apartment,Outer Suburb,2,2,3,4.64,101,No,1,50.0,1,6.0,No
+990171,Priya Le,Townhouse,CBD,3,1,5,4.14,15,No,3,77.0,2,7.0,No
+992140,Priya Tran,Apartment,CBD,1,2,2,5.0,38,Yes,10,66.0,1,6.0,No
+997715,William Singh,Studio,Outer Suburb,1,1,4,4.5,90,No,1,34.0,3,3.0,No
+997836,Emily Thomas,Apartment,Inner Suburb,2,2,6,4.55,16,No,3,55.0,2,3.0,Yes
+993516,William White,House,Outer Suburb,3,3,6,4.97,48,No,4,82.0,3,7.0,Yes
+995223,Jack Wang,Apartment,Outer Suburb,1,2,2,4.43,29,No,0,43.0,1,5.0,No
+995834,Ethan Ali,Villa,Inner Suburb,4,3,9,4.66,22,Yes,5,74.0,4,7.0,No
+994890,Sarah Thomas,House,Outer Suburb,4,3,9,4.65,120,No,6,97.0,2,8.0,No
+991588,Isla Harris,House,Regional,4,2,10,4.82,67,No,1,92.0,3,10.0,No
+995972,Omar Taylor,Apartment,Outer Suburb,1,1,3,4.43,4,No,1,35.0,7,3.0,Yes
+994546,Zoe Taylor,Apartment,CBD,1,1,2,4.62,3,No,1,54.0,3,,Yes
+990170,Jack Young,Townhouse,Outer Suburb,2,2,4,4.87,118,Yes,9,55.0,10,7.0,Yes
+990955,Arjun Anderson,House,CBD,2,1,4,4.21,244,No,0,60.0,2,6.0,No
+994018,Liam King,Apartment,Outer Suburb,1,1,2,4.53,21,No,3,47.0,2,5.0,Yes
+996587,Ethan Walker,Studio,CBD,1,1,2,4.8,57,Yes,4,42.0,3,7.0,Yes
+991608,Olivia Le,Apartment,CBD,1,2,3,5.0,56,No,2,41.0,1,6.0,Yes
+992284,Sarah Brown,Apartment,Outer Suburb,2,1,5,4.16,62,No,3,48.0,3,5.0,Yes
+997047,James King,Apartment,Outer Suburb,1,1,3,4.47,45,No,6,42.0,2,6.0,Yes
+991206,Lily Chen,House,Inner Suburb,2,2,3,4.56,155,Yes,1,60.0,1,4.0,Yes
+995055,Sarah King,House,CBD,4,2,7,4.1,40,No,1,80.0,10,5.0,No
+992493,Lucas Wang,Apartment,Outer Suburb,2,2,5,4.3,26,Yes,4,71.0,3,6.0,Yes
+993233,James King,Townhouse,Outer Suburb,2,2,4,4.68,20,No,6,61.0,2,3.0,No
+991958,Samuel Martin,Apartment,Inner Suburb,1,1,2,4.67,16,No,1,33.0,2,3.0,No
+995278,Emily Brown,Apartment,Outer Suburb,1,2,3,4.59,42,Yes,4,77.0,2,8.0,Yes
+995680,William Singh,Studio,Outer Suburb,1,2,2,4.4,75,No,1,49.0,3,3.0,Yes
+992126,Daniel Wilson,Apartment,Outer Suburb,1,1,2,4.33,160,No,1,29.0,2,4.0,Yes
+995702,Linh Jones,Townhouse,Outer Suburb,2,2,4,4.57,54,Yes,5,76.0,2,7.0,Yes
+993196,Olivia Harris,Studio,Regional,1,2,4,4.28,22,No,6,51.0,1,7.0,Yes
+993536,Anna Smith,House,Inner Suburb,4,3,9,,52,No,10,,1,8.0,Yes
+991611,Michael Wilson,Apartment,Inner Suburb,1,1,1,4.42,26,No,0,57.0,2,5.0,Yes
+994388,David Harris,Studio,Inner Suburb,1,1,1,4.94,187,Yes,15,39.0,2,4.0,Yes
+991702,Priya Wang,Apartment,Regional,1,2,3,4.8,17,No,1,49.0,2,6.0,Yes
+995288,An Patel,Apartment,Inner Suburb,2,2,4,4.78,30,No,6,48.0,2,5.0,No
+996495,Daniel Thomas,House,Outer Suburb,3,2,6,4.55,63,No,7,77.0,1,5.0,Yes
+992653,Omar Jones,House,Outer Suburb,3,2,6,4.38,23,No,3,60.0,1,6.0,No
+997722,Hannah Harris,Townhouse,CBD,3,2,6,4.21,52,No,1,84.0,1,7.0,Yes
+995519,Emma Lee,Studio,Inner Suburb,1,2,3,4.51,97,Yes,7,41.0,1,4.0,No
+993888,Zoe King,Apartment,CBD,1,1,2,4.54,23,No,2,50.0,1,7.0,No
+997498,Jack Singh,Studio,Inner Suburb,1,2,2,4.26,9,No,1,50.0,1,4.0,No
+990647,William Smith,Apartment,CBD,1,1,2,4.45,133,No,8,48.0,3,7.0,Yes
+992566,Omar Jones,House,Inner Suburb,4,4,8,4.49,25,No,1,77.0,1,4.0,Yes
+996430,Lucas White,Apartment,Inner Suburb,1,1,2,4.32,21,No,7,33.0,3,5.0,No
+992824,Sophie Patel,Apartment,CBD,1,1,4,4.3,30,No,2,46.0,1,5.0,Yes
+993899,Lucas Lee,Studio,Inner Suburb,1,1,1,4.48,41,No,1,38.0,2,5.0,Yes
+992171,Wei Scott,Apartment,CBD,2,1,4,4.03,22,No,0,60.0,1,7.0,No
+994109,Olivia Patel,Apartment,Inner Suburb,1,1,3,4.27,36,No,1,41.0,1,5.0,Yes
+996656,An Anderson,HOUSE,Regional,4,3,10,4.43,19,No,5,95.0,1,7.0,No
+991749,Mia Scott,House,Inner Suburb,3,2,8,4.9,75,No,7,68.0,1,8.0,Yes
+993911,Chloe Ali,Apartment,Outer Suburb,1,1,2,4.38,91,No,4,47.0,1,3.0,No
+994051,Oliver Harris,Townhouse,Inner Suburb,4,3,10,4.53,48,Yes,6,90.0,2,8.0,No
+991670,Aisha Scott,Villa,CBD,2,2,4,4.47,24,No,3,84.0,1,7.0,Yes
+993432,An Scott,Townhouse,Outer Suburb,3,2,7,4.43,23,No,7,85.0,1,4.0,No
+991562,Mia Singh,Apartment,Inner Suburb,2,2,3,4.96,56,Yes,6,50.0,3,6.0,Yes
+997309,Olivia Nguyen,Studio,Inner Suburb,1,2,3,4.1,32,No,2,60.0,3,5.0,Yes
+991387,Emma Wang,Apartment,Regional,2,3,3,4.38,18,No,6,69.0,1,7.0,Yes
+996223,Chloe White,Apartment,Regional,1,2,4,4.26,66,No,1,38.0,1,4.0,Yes
+990021,Grace Lee,House,CBD,2,2,5,,82,No,3,,1,5.0,No
+994671,Sophie Martin,House,Inner Suburb,3,2,7,4.42,82,Yes,3,73.0,5,5.0,Yes
+994974,Zoe Lee,House,CBD,4,2,7,4.34,78,No,11,73.0,1,5.0,Yes
+993287,Priya Thomas,Studio,Outer Suburb,1,1,2,4.51,58,No,4,36.0,2,3.0,Yes
+992331,Jack Lee,House,Regional,4,2,9,4.2,18,No,6,64.0,1,5.0,Yes
+996446,Grace Nguyen,Townhouse,CBD,2,2,4,4.3,80,Yes,6,68.0,1,5.0,No
+996510,Priya Khan,Apartment,Inner Suburb,1,1,2,4.52,62,Yes,2,35.0,2,6.0,Yes
+990923,Liam Khan,Apartment,Inner Suburb,2,3,5,4.35,43,No,6,79.0,3,7.0,Yes
+990069,Samuel Singh,Apartment,Regional,2,2,5,4.02,99,No,2,59.0,2,3.0,Yes
+992611,An Tran,House,Inner Suburb,4,3,8,4.46,80,Yes,3,62.0,1,5.0,No
+992244,Ava Khan,Townhouse,Inner Suburb,4,3,9,4.69,100,Yes,2,99.0,1,7.0,No
+990092,Minh Walker,Studio,Outer Suburb,1,2,2,4.61,21,No,1,57.0,1,5.0,No
+995072,Minh Patel,House,Outer Suburb,3,2,8,4.5,42,No,5,76.0,2,7.0,No
+992028,Thomas Martin,Townhouse,CBD,3,2,7,3.97,164,No,0,56.0,1,5.0,No
+995399,Arjun Ali,House,Outer Suburb,4,3,8,4.03,49,No,0,94.0,3,5.0,Yes
+992024,William Martin,Apartment,Outer Suburb,2,1,3,4.8,22,Yes,5,63.0,3,5.0,No
+997486,Emily Young,Apartment,CBD,2,2,4,4.21,84,No,4,56.0,2,2.0,Yes
+993660,An King,Studio,Inner Suburb,1,1,3,4.12,39,Yes,1,54.0,2,5.0,Yes
+992497,Daniel King,House,Inner Suburb,2,2,4,4.36,59,No,12,61.0,3,5.0,Yes
+993286,Priya Chen,Townhouse,CBD,2,1,3,4.39,123,Yes,14,57.0,3,5.0,No
+993600,Noah Khan,Studio,Regional,1,2,2,4.1,61,No,4,61.0,2,3.0,No
+995713,An Patel,Apartment,Inner Suburb,1,2,2,5.0,41,No,1,68.0,2,7.0,No
+991254,Oliver Wilson,Studio,Regional,1,2,1,3.98,109,No,5,50.0,3,5.0,No
+995579,Chloe Thomas,Townhouse,Inner Suburb,2,2,6,,5,No,1,64.0,1,4.0,Yes
+993510,Mei Scott,House,Regional,3,1,5,4.41,14,No,3,73.0,2,6.0,Yes
+994508,Mia Harris,Apartment,Inner Suburb,1,1,1,4.18,36,No,1,46.0,1,4.0,Yes
+994358,David Lee,Apartment,CBD,1,1,4,4.34,35,No,11,45.0,1,5.0,Yes
+992562,Lucas White,House,Inner Suburb,2,2,3,4.25,28,Yes,0,58.0,2,5.0,Yes
+993334,Michael Taylor,Townhouse,Regional,2,2,4,4.54,100,Yes,2,66.0,1,9.0,Yes
+995121,Samuel Taylor,Townhouse,CBD,4,3,9,4.49,84,Yes,3,81.0,5,6.0,No
+990481,William Martin,Apartment,CBD,1,1,4,4.36,24,No,1,57.0,1,4.0,Yes
+990632,Mai Jones,House,CBD,3,2,6,4.92,28,Yes,3,80.0,2,7.0,Yes
+996238,Aisha Wilson,House,Regional,2,1,5,4.79,58,Yes,11,53.0,3,6.0,Yes
+995388,Lily Martin,Apartment,Regional,1,1,4,,44,No,1,,3,7.0,Yes
+993208,William White,Apartment,CBD,1,1,2,4.15,17,No,1,38.0,3,4.0,Yes
+990026,Henry Smith,Apartment,Inner Suburb,2,2,5,4.04,10,No,3,69.0,1,5.0,Yes
+990362,Daniel Anderson,Apartment,CBD,2,2,4,4.58,65,Yes,15,78.0,2,7.0,Yes
+994608,Aisha Brown,House,Inner Suburb,4,3,7,4.39,116,No,4,92.0,2,8.0,No
+992413,William Harris,Apartment,Outer Suburb,1,1,3,4.16,21,No,1,51.0,2,4.0,Yes
+993524,Mei King,Villa,CBD,5,3,10,4.57,37,No,5,95.0,1,8.0,No
+991950,Oliver Wang,Townhouse,Inner Suburb,2,3,6,4.63,88,Yes,6,49.0,1,6.0,Yes
+996448,James Thomas,House,Outer Suburb,3,3,7,4.8,62,Yes,5,74.0,2,6.0,No
+996746,Mei Clark,Villa,Outer Suburb,2,2,6,4.01,13,No,1,76.0,2,6.0,Yes
+997563,Noah Young,Townhouse,Outer Suburb,3,2,6,4.25,27,No,8,72.0,1,5.0,No
+992453,Zoe Smith,Apartment,Outer Suburb,1,2,3,4.81,73,Yes,12,54.0,3,4.0,No
+997601,Thomas Nguyen,Townhouse,Inner Suburb,2,2,4,4.65,91,Yes,4,67.0,2,3.0,Yes
+990318,Chloe Martin,House,Outer Suburb,4,2,9,4.42,24,No,0,85.0,1,4.0,No
+996100,Linh Khan,Apartment,CBD,3,2,8,3.9,24,No,5,77.0,2,5.0,No
+995375,Michael King,Townhouse,Outer Suburb,3,2,7,4.06,22,Yes,3,82.0,2,6.0,Yes
+997634,Michael White,Apartment,Regional,3,2,5,3.91,40,No,7,77.0,4,9.0,No
+992816,Omar Jones,Studio,Outer Suburb,1,2,3,4.54,34,Yes,0,58.0,3,6.0,Yes
+995784,William Singh,Studio,Outer Suburb,1,1,3,4.76,69,Yes,1,46.0,2,3.0,No
+993114,Emily Harris,Apartment,Regional,2,3,5,4.79,24,Yes,5,64.0,2,5.0,Yes
+997148,An Singh,House,CBD,4,3,10,4.27,44,Yes,1,94.0,1,8.0,Yes
+995616,Lily Martin,House,Inner Suburb,4,3,8,4.57,96,Yes,8,99.0,4,6.0,Yes
+995905,Mia Scott,Townhouse,Regional,4,2,7,4.46,99,No,0,74.0,3,5.0,Yes
+990283,Aisha Thomas,Apartment,CBD,1,1,1,4.49,64,Yes,2,55.0,10,6.0,No
+992750,Henry Ali,Townhouse,Inner Suburb,2,2,4,4.45,83,No,1,64.0,1,5.0,Yes
+997803,Anna Thomas,Apartment,CBD,2,1,3,4.07,8,No,0,47.0,1,3.0,No
+995752,Arjun Brown,Apartment,Outer Suburb,3,2,7,,36,Yes,2,,1,9.0,Yes
+997290,Minh Wang,Villa,CBD,3,3,5,4.59,37,Yes,7,69.0,1,4.0,No
+991011,Grace Jones,Apartment,CBD,2,1,5,4.11,48,No,2,51.0,1,5.0,Yes
+992955,Samuel Taylor,House,Regional,4,2,8,4.77,53,Yes,8,78.0,4,6.0,No
+993115,Thomas Walker,Villa,CBD,3,2,7,4.57,30,No,5,98.0,2,7.0,Yes
+992615,James Jones,Apartment,CBD,1,2,3,4.57,22,No,1,53.0,5,4.0,No
+997555,Emma Jones,Studio,CBD,1,1,2,4.75,68,No,11,41.0,5,4.0,No
+997504,Linh Chen,Studio,Outer Suburb,1,1,2,3.71,16,No,4,61.0,1,6.0,No
+990468,Noah Lee,Studio,Outer Suburb,1,1,3,4.24,38,No,0,38.0,3,7.0,No
+992146,Mia Chen,Apartment,Inner Suburb,1,2,2,4.39,64,No,2,34.0,3,3.0,No
+993172,Amelia Patel,Studio,Outer Suburb,1,1,2,3.85,20,No,5,46.0,1,5.0,Yes
+995469,Samuel King,Apartment,CBD,2,1,4,4.08,66,No,6,61.0,1,6.0,Yes
+994711,Oliver Tran,House,Inner Suburb,5,3,10,4.5,25,No,1,86.0,2,5.0,No
+996101,Lily Ali,House,CBD,4,3,8,4.52,86,Yes,7,85.0,2,7.0,Yes
+990331,Omar Brown,Apartment,CBD,2,2,5,4.09,28,No,0,65.0,2,6.0,No
+991081,Minh King,Townhouse,Outer Suburb,3,2,8,5.0,33,Yes,1,79.0,5,8.0,Yes
+991672,David Lee,Villa,Outer Suburb,3,3,6,4.44,29,Yes,1,82.0,1,7.0,Yes
+996571,Emma Smith,Studio,CBD,1,1,4,4.4,43,No,2,50.0,1,2.0,No
+995615,Mai Harris,Studio,Inner Suburb,1,1,2,4.56,25,Yes,3,52.0,3,6.0,No
+996333,Ethan Patel,Townhouse,Regional,3,2,8,4.09,67,Yes,10,62.0,1,5.0,No
+997985,Sarah Chen,House,CBD,4,3,7,4.62,41,Yes,1,76.0,1,6.0,Yes
+990282,Anna Chen,Apartment,Inner Suburb,2,2,4,4.52,21,No,2,60.0,2,6.0,Yes
+996592,William Martin,Apartment,Outer Suburb,1,2,2,4.23,17,No,9,44.0,2,4.0,Yes
+991651,Hannah Young,House,CBD,5,4,10,4.06,12,No,2,109.0,2,7.0,Yes
+990303,Mai Harris,House,Regional,5,2,9,4.47,52,No,4,86.0,1,7.0,Yes
+990022,David Nguyen,House,Regional,3,2,8,4.62,33,No,0,67.0,1,4.0,No
+993907,Lucas Lee,Apartment,Inner Suburb,1,1,2,4.52,53,No,10,60.0,2,5.0,No
+996105,Minh Le,Apartment,Regional,1,1,4,4.48,71,No,0,48.0,2,3.0,No
+997137,Priya Patel,House,CBD,4,2,9,4.32,42,Yes,5,80.0,2,5.0,No
+997620,An Patel,House,Outer Suburb,2,2,5,4.61,49,No,1,44.0,2,5.0,No
+992982,Sarah Chen,House,CBD,5,3,10,4.61,11,No,3,115.0,1,7.0,No
+992062,Thomas Jones,Apartment,Inner Suburb,1,1,2,4.4,153,No,2,18.0,3,3.0,Yes
+994039,Omar King,House,CBD,3,2,6,4.03,3,No,1,74.0,3,3.0,Yes
+991830,Zoe Lee,Apartment,Inner Suburb,2,2,4,4.35,3,No,0,55.0,2,4.0,No
+997115,Noah Brown,Apartment,CBD,2,2,3,4.22,34,Yes,1,47.0,3,6.0,Yes
+990698,Omar Wilson,Studio,CBD,1,2,2,4.73,131,Yes,2,61.0,3,7.0,Yes
+991466,Aisha Singh,Apartment,Inner Suburb,1,2,2,4.15,24,No,1,46.0,4,4.0,No
+997832,Arjun Martin,Studio,Outer Suburb,1,1,1,4.65,30,Yes,3,63.0,10,,Yes
+996552,Isla Wilson,House,CBD,3,2,7,5.0,62,Yes,15,89.0,1,9.0,Yes
+991555,Aisha Clark,Apartment,Inner Suburb,1,1,1,4.54,132,No,5,43.0,2,5.0,Yes
+997057,Anna Le,Apartment,CBD,3,2,6,4.29,50,No,5,60.0,3,5.0,Yes
+992096,Wei Singh,House,Outer Suburb,5,3,10,4.9,91,Yes,4,104.0,2,8.0,Yes
+990368,Oliver Wilson,Apartment,Outer Suburb,2,2,3,,82,No,2,,2,5.0,No
+991404,Daniel Wilson,House,Regional,3,2,6,4.86,52,Yes,0,73.0,2,6.0,Yes
+991255,Chloe Anderson,Studio,Inner Suburb,1,1,2,4.79,155,Yes,4,33.0,3,4.0,Yes
+996799,Lily Lee,House,Regional,4,3,10,4.46,32,No,2,93.0,2,6.0,No
+996398,Ben Le,House,Inner Suburb,3,2,6,4.31,37,No,5,59.0,1,4.0,No
+992464,Liam Smith,Studio,Outer Suburb,1,1,1,4.49,62,No,0,50.0,3,7.0,Yes
+994112,An Jones,House,Regional,4,3,10,4.49,17,No,3,77.0,2,7.0,No
+990448,Lucas Thomas,Townhouse,Outer Suburb,3,3,6,4.41,4,No,1,74.0,2,6.0,Yes
+995947,Anna Singh,Townhouse,Inner Suburb,2,2,3,4.4,37,Yes,5,48.0,1,3.0,No
+997490,James Scott,House,CBD,3,2,6,4.35,117,No,5,80.0,3,6.0,No
+994108,Oliver Scott,Townhouse,CBD,2,2,5,4.63,14,No,3,67.0,1,4.0,Yes
+992684,Hannah Smith,Townhouse,Outer Suburb,3,3,6,4.95,101,Yes,0,61.0,4,3.0,Yes
+992378,Wei Patel,Townhouse,Inner Suburb,3,2,8,4.28,253,No,1,67.0,3,4.0,Yes
+996544,Samuel Walker,Studio,CBD,1,2,4,4.7,29,No,4,69.0,3,6.0,Yes
+995779,Samuel Wilson,Apartment,CBD,2,2,4,4.09,26,No,0,59.0,1,6.0,No
+992780,Amelia Wilson,Apartment,Inner Suburb,1,2,2,4.31,3,No,0,48.0,3,4.0,Yes
+994887,Grace Harris,Studio,Regional,1,1,1,4.45,56,Yes,12,57.0,4,4.0,Yes
+992314,Lily King,Apartment,Outer Suburb,1,1,2,4.1,16,No,1,47.0,1,5.0,No
+995152,Emma Smith,House,Regional,3,2,7,4.44,24,Yes,2,83.0,3,10.0,No
+993932,Isla Harris,Studio,Outer Suburb,1,1,2,4.83,17,No,2,49.0,2,7.0,No
+994263,Michael Scott,Apartment,Outer Suburb,1,1,4,4.83,124,No,1,60.0,10,4.0,No
+995250,Thomas Nguyen,Apartment,Inner Suburb,1,2,3,4.08,9,No,0,50.0,1,6.0,No
+992626,Zoe Wilson,House,Outer Suburb,4,2,8,4.25,19,No,1,77.0,1,6.0,Yes
+994140,Sophie King,Villa,Inner Suburb,3,2,8,4.63,49,Yes,2,66.0,2,5.0,No
+995505,Mei Jones,House,Inner Suburb,5,4,10,4.67,47,No,1,94.0,3,8.0,Yes
+997257,Chloe Walker,House,Regional,3,2,8,4.3,55,Yes,6,72.0,2,4.0,No
+997646,Grace Scott,Apartment,Outer Suburb,1,2,4,4.56,24,No,1,50.0,2,6.0,Yes
+992243,Amelia Brown,Apartment,Inner Suburb,1,1,4,4.46,44,Yes,3,54.0,3,7.0,Yes
+994433,Sophie Jones,Apartment,CBD,1,1,4,4.31,49,No,1,43.0,7,5.0,Yes
+994283,Anna Lee,Studio,Inner Suburb,1,1,3,4.32,12,No,1,71.0,2,7.0,Yes
+997534,Mia Scott,House,Outer Suburb,4,2,8,4.7,91,Yes,1,95.0,2,7.0,No
+997801,William Young,Apartment,CBD,2,2,3,4.14,4,No,0,71.0,2,5.0,No
+995595,Aisha Wilson,Apartment,CBD,1,2,3,4.08,2,No,0,54.0,2,5.0,Yes
+994288,Mai Scott,Studio,Inner Suburb,1,2,3,4.44,41,Yes,7,38.0,3,4.0,No
+997381,Oliver Harris,Apartment,Outer Suburb,1,2,2,4.43,113,No,6,60.0,4,6.0,No
+990460,Priya Patel,Townhouse,Outer Suburb,3,2,6,4.31,25,No,3,68.0,3,6.0,Yes
+990722,Zoe Clark,Apartment,Outer Suburb,1,2,3,4.39,34,No,1,53.0,2,8.0,Yes
+990389,An Le,Townhouse,CBD,3,2,6,4.05,37,No,0,78.0,1,5.0,Yes
+994953,Mia Martin,Apartment,Inner Suburb,2,2,4,4.93,32,No,8,59.0,1,7.0,Yes
+994137,Jack Le,Townhouse,Regional,3,3,6,4.4,8,No,3,81.0,1,5.0,Yes
+995536,Emily Harris,Studio,Inner Suburb,1,1,1,4.45,11,No,0,35.0,1,3.0,Yes
+991089,Daniel Wilson,Apartment,Regional,3,2,8,4.49,19,No,5,63.0,2,4.0,No
+994559,Mei Martin,Apartment,Regional,2,2,3,4.21,19,No,2,46.0,2,3.0,No
+991908,Oliver Singh,Apartment,Outer Suburb,1,2,2,4.32,87,Yes,13,62.0,3,7.0,Yes
+994814,Arjun Le,Apartment,Inner Suburb,1,2,2,4.48,136,Yes,7,46.0,7,7.0,No
+996527,Mai Martin,House,CBD,3,2,6,4.37,9,No,0,80.0,2,7.0,No
+997777,Olivia Wang,Apartment,Inner Suburb,3,2,6,4.48,25,No,0,89.0,2,8.0,No
+994256,Wei White,Studio,Regional,1,2,2,,40,Yes,5,,2,4.0,Yes
+990626,Ava Singh,House,Outer Suburb,2,1,5,4.29,63,Yes,6,65.0,2,6.0,No
+990121,Jack Thomas,Townhouse,Outer Suburb,3,2,7,4.12,36,No,1,53.0,1,5.0,Yes
+991042,Ava Harris,Studio,CBD,1,1,4,4.22,107,Yes,6,48.0,1,4.0,No
+990435,Amelia Thomas,Villa,CBD,3,2,6,4.91,15,No,3,81.0,1,8.0,Yes
+994774,Jack Lee,Apartment,Inner Suburb,1,2,3,4.46,8,No,0,54.0,1,5.0,No
+993412,Samuel Scott,House,Outer Suburb,3,2,6,3.96,39,No,1,82.0,1,6.0,No
+995534,Samuel Harris,Apartment,Outer Suburb,2,1,6,4.33,15,No,0,62.0,1,8.0,Yes
+994718,Henry Wang,Studio,Inner Suburb,1,1,3,4.53,92,Yes,2,49.0,7,5.0,Yes
+995470,Jack Singh,Apartment,CBD,1,2,2,3.78,29,No,8,41.0,2,7.0,No
+995587,Mia Thomas,Studio,Outer Suburb,1,2,1,4.55,7,No,3,41.0,5,7.0,No
+991972,Emily Singh,House,Regional,4,3,9,,63,No,3,103.0,2,9.0,Yes
+995693,Ethan Le,Apartment,Regional,1,1,1,3.97,69,No,7,34.0,7,3.0,No
+995395,Emma Young,Townhouse,Regional,3,2,6,4.5,56,No,8,60.0,1,4.0,Yes
+990369,Lucas Patel,Studio,Regional,1,1,3,4.86,20,No,6,49.0,3,7.0,No
+994581,Priya King,Studio,Regional,1,2,3,4.63,76,Yes,1,57.0,3,5.0,No
+997080,Priya White,Apartment,Inner Suburb,2,1,3,4.2,59,No,7,54.0,3,6.0,Yes
+995171,Jack Wang,Apartment,Inner Suburb,2,2,4,4.5,40,No,7,74.0,5,6.0,Yes
+992005,Linh King,Apartment,CBD,3,2,6,4.23,16,No,1,88.0,2,7.0,Yes
+995696,Omar Chen,Studio,Inner Suburb,1,1,2,4.4,76,No,2,37.0,2,6.0,No
+991391,Anna Ali,Apartment,Inner Suburb,1,1,3,4.6,13,No,11,45.0,3,4.0,Yes
+997261,James King,Studio,Regional,1,2,3,,43,Yes,3,,1,6.0,No
+997411,Mei Wang,Studio,CBD,1,1,4,4.57,5,No,1,56.0,1,,No
+992224,Arjun Khan,Studio,Inner Suburb,1,1,3,4.28,14,No,0,36.0,2,4.0,No
+991341,Ethan Khan,Townhouse,Regional,3,3,5,4.74,139,No,2,68.0,1,7.0,Yes
+993557,Anna Clark,Apartment,Inner Suburb,2,2,6,4.51,110,No,0,64.0,2,7.0,No
+991606,Anna Khan,Studio,Outer Suburb,1,2,3,4.11,51,No,8,53.0,1,8.0,No
+990892,Minh Martin,House,Outer Suburb,3,3,8,4.41,55,No,1,70.0,2,6.0,Yes
+990840,Liam Clark,Apartment,Outer Suburb,2,2,3,4.64,41,Y,8,54.0,2,6.0,No
+995927,Henry Chen,House,Inner Suburb,4,2,7,4.45,49,Yes,4,73.0,1,8.0,Yes
+996110,Ethan Smith,Apartment,Regional,2,2,5,4.46,60,Yes,12,60.0,7,5.0,Yes
+995800,Daniel Wilson,Apartment,CBD,2,2,4,4.71,61,No,1,61.0,1,6.0,Yes
+995798,Ben Khan,Townhouse,Outer Suburb,2,2,5,4.96,45,Yes,6,76.0,5,8.0,Yes
+992563,Michael Le,Apartment,Outer Suburb,1,1,3,4.71,59,Yes,6,23.0,1,4.0,Yes
+991382,Oliver Harris,Apartment,Inner Suburb,2,2,3,4.57,40,Yes,2,55.0,2,4.0,Yes
+997843,Isla Singh,Townhouse,Regional,2,2,3,4.78,64,No,2,66.0,5,8.0,Yes
+997090,William King,Studio,Outer Suburb,1,1,3,4.07,48,No,4,46.0,5,4.0,Yes
+990083,Ben Young,Townhouse,Outer Suburb,4,2,9,4.98,47,Yes,2,70.0,1,6.0,Yes
+996301,Ethan Tran,House,CBD,3,1,5,4.27,70,Yes,1,63.0,2,6.0,No
+996960,An Martin,Studio,Regional,1,1,1,4.68,55,Yes,6,61.0,2,5.0,Yes
+997742,Priya Brown,Villa,Inner Suburb,4,4,7,4.65,16,No,2,81.0,2,7.0,No
+995079,Oliver Patel,Studio,Inner Suburb,1,1,2,4.52,23,No,10,38.0,3,3.0,No
+992965,Lucas Nguyen,Apartment,CBD,2,2,6,4.81,45,Yes,12,71.0,5,6.0,Yes
+997714,James Taylor,Townhouse,CBD,2,2,4,4.08,16,No,1,56.0,1,4.0,No
+993996,Aisha Smith,House,Regional,4,3,8,4.58,134,No,1,70.0,1,4.0,Yes
+995832,Arjun Harris,Apartment,Inner Suburb,1,1,2,4.45,18,Yes,0,50.0,2,6.0,No
+991740,Sophie Harris,Apartment,Inner Suburb,1,2,2,4.5,57,Yes,5,49.0,1,6.0,Yes
+994034,Mei Anderson,House,Regional,2,1,5,4.01,76,No,7,75.0,1,7.0,Yes
+997718,Jack Patel,Apartment,Outer Suburb,1,2,3,4.4,34,No,1,50.0,4,4.0,Yes
+991343,Isla Scott,Apartment,Outer Suburb,1,1,3,4.56,99,No,6,49.0,1,6.0,Yes
+990861,Olivia Tran,Apartment,Inner Suburb,1,1,2,4.59,12,No,6,21.0,5,5.0,No
+995973,Priya Wang,Villa,Inner Suburb,5,4,10,4.92,22,No,2,116.0,1,,No
+992287,Anna Lee,Apartment,Inner Suburb,1,2,1,4.7,41,Yes,3,44.0,5,3.0,Yes
+991386,Lily Wilson,Apartment,Regional,2,2,4,4.45,44,No,3,63.0,2,5.0,Yes
+990010,Thomas Walker,Apartment,Regional,2,2,4,4.72,42,No,6,65.0,1,4.0,Yes
+994589,Zoe Brown,Apartment,Outer Suburb,2,1,3,4.25,116,No,2,68.0,2,10.0,No
+995092,Grace Young,Villa,Outer Suburb,5,3,9,4.48,33,No,4,99.0,1,9.0,Yes
+994986,Oliver Harris,Apartment,CBD,1,1,1,4.75,18,No,1,41.0,2,5.0,No
